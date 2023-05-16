@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/music-trends/static/css/main.91874e70.css",
+    "main.js": "/music-trends/static/js/main.edc3c47c.js",
+    "static/media/albumsCountsByCountryPolygon.geojson": "/music-trends/static/media/albumsCountsByCountryPolygon.728c81982f680c3d660a.geojson",
+    "static/media/black_vinyl.png": "/music-trends/static/media/black_vinyl.48714a02326a7ae60c33.png",
+    "static/media/albumsByCountry.geojson": "/music-trends/static/media/albumsByCountry.bb136e35c485ef89c898.geojson",
+    "static/media/albumsFinal.csv": "/music-trends/static/media/albumsFinal.04f851cf6192756a6e8e.csv",
+    "static/media/albumsCountsByCountry.geojson": "/music-trends/static/media/albumsCountsByCountry.536042c8c6bb5e8887b3.geojson",
+    "static/media/genreTypesByYears.csv": "/music-trends/static/media/genreTypesByYears.91938bff0297e9769eab.csv",
+    "static/media/music line for lun.svg": "/music-trends/static/media/music line for lun.1319479f7aa9b7ca545f7e734148a42b.svg",
+    "index.html": "/music-trends/index.html",
+    "main.91874e70.css.map": "/music-trends/static/css/main.91874e70.css.map",
+    "main.edc3c47c.js.map": "/music-trends/static/js/main.edc3c47c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91874e70.css",
+    "static/js/main.edc3c47c.js"
+  ]
+}
