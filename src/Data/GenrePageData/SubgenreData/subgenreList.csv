@@ -1,0 +1,296 @@
+genre,subgenre,year
+Metal,Avant-Garde Metal,1980
+Metal,Grindcore,1980
+Metal,Black Metal,1980
+Metal,Blackgaze,2000
+Metal,Thrash Metal,1980
+Metal,Death Metal,1980
+Metal,Atmospheric Sludge Metal,2010
+Metal,Dissonant Death Metal,1990
+Metal,Progressive Metal,1980
+Metal,Atmospheric Black Metal,1990
+Metal,Melodic Death Metal,1990
+Metal,Power Metal,1980
+Metal,Heavy Metal,1960
+Metal,Doom Metal,1980
+Metal,Drone Metal,1990
+Metal,Technical Death Metal,1990
+Metal,Post-Metal,1990
+Metal,Death Doom Metal,1990
+Metal,Brutal Death Metal,1990
+Metal,Melodic Black Metal,1990
+Metal,Metalcore,1990
+Metal,Technical Thrash Metal,1980
+Metal,Pagan Black Metal,1990
+Metal,Gothic Metal,1990
+Metal,US Power Metal,1980
+Metal,Goregrind,1980
+Metal,Alternative Metal,1990
+Metal,Depressive Black Metal,1990
+Metal,Funeral Doom Metal,1990
+Metal,War Metal,1990
+Metal,Stoner Metal,1990
+Metal,Sludge Metal,1990
+Metal,Mathcore,1990
+Metal,Folk Metal,1990
+Metal,Powerviolence,1990
+Metal,Symphonic Metal,1990
+Metal,Neo-Prog,1980
+Metal,Traditional Doom Metal,1970
+Metal,Speed Metal,1970
+Metal,Deathgrind,1980
+Metal,Slam Death Metal,1990
+Metal,Deathcore,1990
+Metal,Melodic Metalcore,1990
+Metal,Groove Metal,1990
+Metal,Industrial Metal,1990
+Metal,Djent,2000
+Metal,Epic Doom Metal,1986
+Rock,Art Rock,1966
+Rock,Avant-Prog,1970
+Rock,Hardcore Punk,1970
+Rock,Jazz-Rock,1960
+Rock,Noise Rock,1980
+Rock,Neo-Psychedelia,1970
+Rock,Screamo,1990
+Rock,Psychedelic Rock,1960
+Rock,Post-Hardcore,1980
+Rock,Dance-Punk,1970
+Rock,Indie Rock,1970
+Rock,Gothic Rock,1970
+Rock,Zeuhl,1970
+Rock,Riot Grrrl,1990
+Rock,Emoviolence,1990
+Rock,Post-Rock,1990
+Rock,Shoegaze,1980
+Rock,Art Punk,1970
+Rock,Post-Punk,1980
+Rock,Tishoumaren,2010
+Rock,Pop Rock,1950
+Rock,Hardcore Breaks,1990
+Rock,Progressive Rock,1960
+Rock,Hardcore Hip Hop,1980
+Rock,Pop Punk,1970
+Rock,Piano Rock,1970
+Rock,Math Rock,1980
+Rock,Symphonic Prog,1970
+Rock,Emo,1980
+Rock,Midwest Emo,1990
+Rock,Yakousei,2000
+Rock,J-Rock,1970
+Rock,Slowcore,1990
+Rock,Acoustic Rock,1960
+Rock,Alternative Rock,1970
+Rock,Digital Hardcore,1990
+Rock,Heavy Psych,1960
+Rock,Queercore,1980
+Rock,New Wave,1970
+Rock,Heartland Rock,1970
+Rock,Experimental Rock,1960
+Rock,Melodic Hardcore,1980
+Rock,Hard Rock,1970
+Rock,Stoner Rock,1990
+Rock,Slacker Rock,1990
+Rock,Swancore,2000
+Rock,Folk Rock,1960
+Rock,Ska Punk,1990
+Rock,Japanese Hardcore,1980
+Rock,Folk Punk,1980
+Rock,Punk Rock,1970
+Rock,AOR,1970
+Rock,Garage Punk,1970
+Rock,Samba-rock,1960
+Rock,Blues Rock,1960
+Rock,Industrial Rock,1970
+Rock,Celtic Punk,1980
+Rock,Rock Opera,1960
+Rock,Rock urbano español,1970
+Rock,Emo-Pop,2000
+Rock,Comedy Rock,1950
+Rock,Punk Blues,1980
+Rock,Southern Rock,1970
+Rock,Space Rock,1970
+Rock,Post-Punk Revival,2000
+Rock,D-Beat,1980
+Rock,Garage Rock,1960
+Rock,Garage Rock Revival,1960
+Rock,UK Garage,1990
+Rock,Neocrust,1980
+Rock,Stenchcore,1980
+Pop,Indie Pop,1980
+Pop,Dream Pop,1980
+Pop,Baroque Pop,1970
+Pop,Art Pop,1950
+Pop,Glitch Pop,1990
+Pop,Dance-Pop,1980
+Pop,Synthpop,1970
+Pop,Power Pop,1970
+Pop,Noise Pop,1990
+Pop,Electropop,1980
+Pop,Indietronica,1970
+Pop,J-Pop,1960
+Pop,Hyperpop,2010
+Pop,City Pop,1980
+Pop,Arabic Pop,1970
+Pop,Ambient Pop,1990
+Pop,Progressive Pop,1960
+Pop,Jazz Pop,1980
+Pop,Pop Rap,1980
+Pop,Bubblegum Bass,2010
+Pop,Twee Pop,1980
+Pop,Flamenco Pop,1980
+Pop,K-Pop,1990
+Pop,Alt-Pop,1980
+Pop,Plunderphonics,1980
+Pop,Chamber Pop,1990
+Pop,Psychedelic Pop,1960
+Pop,Shibuya-kei,1990
+Pop,Hypnagogic Pop,2000
+Pop,Minimal Wave,1980
+Pop,Math Pop,2000
+Pop,Jangle Pop,1980
+Pop,Sophisti-Pop,1980
+Pop,Bedroom Pop,1980
+Pop,Picopop,2000
+Pop,Alternative Dance,1980
+Pop,Akishibu-kei,2000
+Folk,Indie Folk,1960
+Folk,Chamber Folk,1960
+Folk,Progressive Folk,1930
+Folk,Avant-Folk,1940
+Folk,Singer-Songwriter,1960
+Folk,Country Soul,1960
+Folk,Mexican Folk Music,1960
+Folk,Contemporary Country,1990
+Folk,Contemporary Folk,1960
+Folk,Alt-Country,1990
+Folk,Folk Pop,1960
+Folk,Irish Folk Music,1920
+Folk,Progressive Country,1970
+Folk,Americana,1950
+Folk,Dark Folk,1990
+Folk,Psychedelic Folk,1960
+Folk,Outlaw Country,1970
+Folk,Folktronica,1990
+Folk,Neofolk,1980
+Folk,Gothic Country,1990
+Folk,Chicago Blues,1920
+Folk,Celtic New Age,1980
+Folk,Freak Folk,1960
+Folk,American Primitivism,1950
+Folk,Neo-Medieval Folk,1980
+Folk,Hill Country Blues,1960
+Folk,Polish Folk Music,1940
+Folk,Neo-Acoustic,1980
+Hip Hop,East Coast Hip Hop,1970
+Hip Hop,Southern Hip Hop,1980
+Hip Hop,Abstract Hip Hop,1980
+Hip Hop,Conscious Hip Hop,1980
+Hip Hop,Political Hip Hop,1980
+Hip Hop,Industrial Hip Hop,1980
+Hip Hop,Drumless,2010
+Hip Hop,Gangsta Rap,1980
+Hip Hop,Boom Bap,1980
+Hip Hop,UK Hip Hop,1980
+Hip Hop,Experimental Hip Hop,1980
+Hip Hop,West Coast Hip Hop,1980
+Hip Hop,Deconstructed Club,2009
+Hip Hop,Jazz Rap,1980
+Hip Hop,Cloud Rap,2000
+Hip Hop,Trap,1990
+Hip Hop,Miami Bass,1990
+Hip Hop,Horrorcore,1990
+Hip Hop,Hybrid Trap,2010
+Hip Hop,French Hip Hop,1980
+Hip Hop,Hip Hop,1970
+Hip Hop,UK Bass,2000
+Hip Hop,Instrumental Hip Hop,2000
+Hip Hop,Memphis Rap,1980
+Hip Hop,Wonky,2000
+Hip Hop,Dirty South,1990
+Hip Hop,Grime,2000
+Hip Hop,Trip Hop,1990
+Jazz,Avant-Garde Jazz,1950
+Jazz,Spiritual Jazz,1950
+Jazz,Nu Jazz,1990
+Jazz,Jazz Fusion,1960
+Jazz,Progressive Bluegrass,1970
+Jazz,Afro-Jazz,1980
+Jazz,Chamber Jazz,1960
+Jazz,Free Jazz,1960
+Jazz,Ethio-Jazz,1950
+Jazz,Jazz,1920
+Jazz,Vocal Jazz,1920
+Jazz,ECM Style Jazz,1980
+Jazz,Jazz-Funk,1980
+Jazz,Post-Bop,1960
+Jazz,Liquid Drum and Bass,2000
+Jazz,Dark Jazz,1990
+Jazz,Wolof Music,1950
+Electronic,Outsider House,2010
+Electronic,Vaporwave,2010
+Electronic,Minimal Drum and Bass,2010
+Electronic,Post-Industrial,1980
+Electronic,Future Bass,2010
+Electronic,IDM,1990
+Electronic,Electronic Dance Music,1980
+Electronic,House,1980
+Electronic,Electronic,1970
+Electronic,Nu-Disco,1990
+Electronic,Neurofunk,1990
+Electronic,Industrial Techno,1990
+Electronic,Deep House,1980
+Electronic,Chillwave,2010
+Electronic,Breakbeat,1970
+Electronic,French Electro,1990
+Electronic,Death Industrial,1980
+Electronic,EAI,1970
+Electronic,Minimal Techno,1990
+Electronic,Glitch,1990
+Electronic,Industrial,1970
+Electronic,Dub Techno,1990
+Electronic,Experimental Big Band,1970
+Electronic,Electroacoustic,1950
+Electronic,Microhouse,1990
+Electronic,Progressive Electronic,1960
+Electronic,Disco,1970
+Electronic,Experimental,1950
+Electronic,Ambient Techno,1990
+Electronic,Dubstep,1990
+Electronic,French House,1990
+R&B,Alternative R&B,2000
+R&B,Neo-Soul,1990
+R&B,Smooth Soul,1970
+R&B,Contemporary R&B,1980
+R&B,Psychedelic Soul,1960
+R&B,MPB,1960
+R&B,Soul,1960
+R&B,New Orleans R&B,1960
+R&B,Funk,1960
+R&B,Chipmunk Soul,2000
+R&B,Southern Soul,1960
+Ambient,Drone,1960
+Ambient,Neoclassical Darkwave,1980
+Ambient,Darkwave,1970
+Ambient,Dark Ambient,1970
+Ambient,Sound Collage,1970
+Ambient,Musique concrète,1950
+Ambient,Ambient,1920
+Ambient,Harsh Noise,1990
+Ambient,Flashcore,2000
+Ambient,Power Noise,1990
+Ambient,Epic Collage,1990
+Ambient,Tape Music,1940
+Ambient,Noise,1970
+Ambient,Hi-Tech Psytrance,2005
+Ambient,Future Garage,2010
+Ambient,Space Ambient,1970
+Classical,Post-Minimalism,1980
+Classical,Minimalism,1960
+Classical,Field Recordings,1930
+Classical,Microtonal Classical,1930
+Classical,New Romantic,1980
+Classical,Classical Crossover,1980
+Classical,Breakcore,1990
+Classical,Modern Classical,1970
+Classical,Spectralism,1970

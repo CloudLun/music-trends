@@ -1,0 +1,2262 @@
+index,year,genre,subgenre
+0,2022,Metal,Avant-Garde Metal
+1,2022,Metal,Grindcore
+2,2022,Metal,Black Metal
+3,2022,Metal,Blackgaze
+4,2022,Metal,Thrash Metal
+5,2022,Metal,Death Metal
+6,2022,Metal,Atmospheric Sludge Metal
+7,2022,Metal,Dissonant Death Metal
+8,2022,Metal,Progressive Metal
+9,2022,Metal,Atmospheric Black Metal
+10,2022,Metal,Progressive Metal
+11,2022,Metal,Death Metal
+12,2022,Metal,Grindcore
+13,2022,Metal,Progressive Metal
+14,2022,Metal,Black Metal
+15,2022,Metal,Atmospheric Black Metal
+16,2022,Metal,Death Metal
+17,2022,Metal,Melodic Death Metal
+18,2022,Metal,Death Metal
+19,2022,Metal,Atmospheric Black Metal
+20,2022,Metal,Power Metal
+21,2022,Metal,Death Metal
+22,2022,Metal,Heavy Metal
+23,2022,Metal,Atmospheric Black Metal
+24,2022,Metal,Avant-Garde Metal
+25,2022,Metal,Black Metal
+26,2022,Metal,Doom Metal
+27,2022,Metal,Melodic Death Metal
+28,2022,Metal,Drone Metal
+29,2022,Metal,Black Metal
+30,2022,Metal,Atmospheric Black Metal
+31,2022,Metal,Death Metal
+32,2022,Metal,Technical Death Metal
+33,2022,Metal,Death Metal
+34,2022,Metal,Post-Metal
+35,2021,Metal,Atmospheric Black Metal
+36,2021,Metal,Avant-Garde Metal
+37,2021,Metal,Atmospheric Black Metal
+38,2021,Metal,Death Doom Metal
+39,2021,Metal,Atmospheric Black Metal
+40,2021,Metal,Brutal Death Metal
+41,2021,Metal,Avant-Garde Metal
+42,2021,Metal,Atmospheric Black Metal
+43,2021,Metal,Post-Metal
+44,2021,Metal,Melodic Black Metal
+45,2021,Metal,Atmospheric Black Metal
+46,2021,Metal,Power Metal
+47,2021,Metal,Black Metal
+48,2021,Metal,Technical Death Metal
+49,2021,Metal,Black Metal
+50,2021,Metal,Doom Metal
+51,2021,Metal,Technical Death Metal
+52,2021,Metal,Progressive Metal
+53,2021,Metal,Metalcore
+54,2021,Metal,Technical Death Metal
+55,2021,Metal,Death Metal
+56,2021,Metal,Black Metal
+57,2021,Metal,Death Doom Metal
+58,2021,Metal,Progressive Metal
+59,2021,Metal,Atmospheric Sludge Metal
+60,2021,Metal,Death Metal
+61,2021,Metal,Black Metal
+62,2021,Metal,Death Doom Metal
+63,2020,Metal,Blackgaze
+64,2020,Metal,Atmospheric Black Metal
+65,2020,Metal,Technical Thrash Metal
+66,2020,Metal,Avant-Garde Metal
+67,2020,Metal,Technical Death Metal
+68,2020,Metal,Progressive Metal
+69,2020,Metal,Atmospheric Black Metal
+70,2020,Metal,Atmospheric Black Metal
+71,2020,Metal,Atmospheric Black Metal
+72,2020,Metal,Atmospheric Black Metal
+73,2020,Metal,Black Metal
+74,2020,Metal,Pagan Black Metal
+75,2020,Metal,Progressive Metal
+76,2020,Metal,Gothic Metal
+77,2020,Metal,Black Metal
+78,2020,Metal,US Power Metal
+79,2020,Metal,Black Metal
+80,2020,Metal,Goregrind
+81,2020,Metal,Black Metal
+82,2020,Metal,Atmospheric Black Metal
+83,2020,Metal,Melodic Death Metal
+84,2020,Metal,"Avant-Garde Metal"", ""Technical Death Metal"", ""Dissonant Death Metal"
+85,2020,Metal,Metalcore
+86,2020,Metal,Black Metal
+87,2020,Metal,Atmospheric Black Metal
+88,2020,Metal,Power Metal
+89,2020,Metal,Black Metal
+90,2020,Metal,Melodic Death Metal
+91,2020,Metal,Alternative Metal
+92,2020,Metal,Doom Metal
+93,2020,Metal,Depressive Black Metal
+94,2020,Metal,Atmospheric Black Metal
+95,2020,Metal,Alternative Metal
+96,2020,Metal,Brutal Death Metal
+97,2019,Metal,Death Metal
+98,2019,Metal,Atmospheric Sludge Metal
+99,2019,Metal,Thrash Metal
+100,2019,Metal,Black Metal
+101,2019,Metal,Blackgaze
+102,2019,Metal,Avant-Garde Metal
+103,2019,Metal,Progressive Metal
+104,2019,Metal,Blackgaze
+105,2019,Metal,Alternative Metal
+106,2019,Metal,Blackgaze
+107,2019,Metal,Funeral Doom Metal
+108,2019,Metal,Atmospheric Black Metal
+109,2019,Metal,Black Metal
+110,2019,Metal,Black Metal
+111,2019,Metal,Atmospheric Black Metal
+112,2019,Metal,Black Metal
+113,2019,Metal,Melodic Death Metal
+114,2019,Metal,Black Metal
+115,2019,Metal,Grindcore
+116,2019,Metal,Death Metal
+117,2019,Metal,Metalcore
+118,2019,Metal,War Metal
+119,2019,Metal,Melodic Black Metal
+120,2019,Metal,Black Metal
+121,2019,Metal,Progressive Metal
+122,2019,Metal,Death Doom Metal
+123,2019,Metal,Black Metal
+124,2019,Metal,Black Metal
+125,2019,Metal,Post-Metal
+126,2019,Metal,Black Metal
+127,2018,Metal,Grindcore
+128,2018,Metal,Progressive Metal
+129,2018,Metal,Post-Metal
+130,2018,Metal,Heavy Metal
+131,2018,Metal,Black Metal
+132,2018,Metal,Stoner Metal
+133,2018,Metal,Black Metal
+134,2018,Metal,Progressive Metal
+135,2018,Metal,Metalcore
+136,2018,Metal,Avant-Garde Metal
+137,2018,Metal,Progressive Metal
+138,2018,Metal,Atmospheric Sludge Metal
+139,2018,Metal,Thrash Metal
+140,2018,Metal,Progressive Metal
+141,2018,Metal,Atmospheric Black Metal
+142,2018,Metal,Progressive Metal
+143,2018,Metal,Black Metal
+144,2018,Metal,Metalcore
+145,2018,Metal,Progressive Metal
+146,2017,Metal,Sludge Metal
+147,2017,Metal,Pagan Black Metal
+148,2017,Metal,Atmospheric Sludge Metal
+149,2017,Metal,Thrash Metal
+150,2017,Metal,Progressive Metal
+151,2017,Metal,Black Metal
+152,2017,Metal,Death Doom Metal
+153,2017,Metal,Death Metal
+154,2017,Metal,Doom Metal
+155,2017,Metal,Metalcore
+156,2017,Metal,Death Doom Metal
+157,2017,Metal,Funeral Doom Metal
+158,2017,Metal,Atmospheric Black Metal
+159,2017,Metal,Progressive Metal
+160,2017,Metal,Death Metal
+161,2017,Metal,Atmospheric Black Metal
+162,2017,Metal,Power Metal
+163,2016,Metal,Technical Thrash Metal
+164,2016,Metal,Death Metal
+165,2016,Metal,Melodic Death Metal
+166,2016,Metal,Atmospheric Sludge Metal
+167,2016,Metal,Grindcore
+168,2016,Metal,Black Metal
+169,2016,Metal,Mathcore
+170,2016,Metal,Technical Death Metal
+171,2016,Metal,Heavy Metal
+172,2016,Metal,Atmospheric Black Metal
+173,2016,Metal,Metalcore
+174,2016,Metal,Atmospheric Black Metal
+175,2016,Metal,Folk Metal
+176,2016,Metal,Doom Metal
+177,2016,Metal,Avant-Garde Metal
+178,2016,Metal,Atmospheric Black Metal
+179,2016,Metal,Progressive Metal
+180,2016,Metal,Grindcore
+181,2016,Metal,Powerviolence
+182,2016,Metal,Depressive Black Metal
+183,2016,Metal,Blackgaze
+184,2016,Metal,Metalcore
+185,2016,Metal,Black Metal
+186,2016,Metal,Brutal Death Metal
+187,2015,Metal,Black Metal
+188,2015,Metal,Black Metal
+189,2015,Metal,Progressive Metal
+190,2015,Metal,Atmospheric Black Metal
+191,2015,Metal,Pagan Black Metal
+192,2015,Metal,Avant-Garde Metal
+193,2015,Metal,Black Metal
+194,2015,Metal,Death Doom Metal
+195,2015,Metal,Black Metal
+196,2015,Metal,Progressive Metal
+197,2015,Metal,Black Metal
+198,2015,Metal,Progressive Metal
+199,2015,Metal,Atmospheric Black Metal
+200,2015,Metal,Folk Metal
+201,2015,Metal,Grindcore
+202,2015,Metal,Atmospheric Black Metal
+203,2015,Metal,Power Metal
+204,2015,Metal,Atmospheric Black Metal
+205,2015,Metal,Gothic Metal
+206,2015,Metal,Funeral Doom Metal
+207,2015,Metal,Brutal Death Metal
+208,2015,Metal,Black Metal
+209,2015,Metal,Heavy Metal
+210,2015,Metal,Gothic Metal
+211,2015,Metal,Death Metal
+212,2015,Metal,Brutal Death Metal
+213,2015,Metal,Death Metal
+214,2014,Metal,Black Metal
+215,2014,Metal,Death Metal
+216,2014,Metal,Alternative Metal
+217,2014,Metal,Death Metal
+218,2014,Metal,Atmospheric Black Metal
+219,2014,Metal,Progressive Metal
+220,2014,Metal,Doom Metal
+221,2014,Metal,Atmospheric Black Metal
+222,2014,Metal,Atmospheric Black Metal
+223,2014,Metal,Grindcore
+224,2014,Metal,Grindcore
+225,2014,Metal,Atmospheric Black Metal
+226,2014,Metal,Atmospheric Black Metal
+227,2014,Metal,Black Metal
+228,2014,Metal,Technical Death Metal
+229,2014,Metal,Black Metal
+230,2014,Metal,Black Metal
+231,2014,Metal,Doom Metal
+232,2014,Metal,Melodic Death Metal
+233,2014,Metal,Melodic Death Metal
+234,2014,Metal,Melodic Black Metal
+235,2014,Metal,Atmospheric Black Metal
+236,2014,Metal,Folk Metal
+237,2014,Metal,War Metal
+238,2014,Metal,Death Metal
+239,2014,Metal,Symphonic Metal
+240,2014,Metal,Sludge Metal
+241,2014,Metal,Black Metal
+242,2014,Metal,Death Metal
+243,2014,Metal,Metalcore
+244,2014,Metal,Neo-Prog
+245,2013,Metal,Atmospheric Black Metal
+246,2013,Metal,Avant-Garde Metal
+247,2013,Metal,Atmospheric Sludge Metal
+248,2013,Metal,Atmospheric Black Metal
+249,2013,Metal,Doom Metal
+250,2013,Metal,Black Metal
+251,2013,Metal,Black Metal
+252,2013,Metal,Metalcore
+253,2013,Metal,Folk Metal
+254,2013,Metal,Heavy Metal
+255,2013,Metal,Heavy Metal
+256,2013,Metal,Death Metal
+257,2013,Metal,Brutal Death Metal
+258,2013,Metal,Black Metal
+259,2013,Metal,Progressive Metal
+260,2013,Metal,Technical Death Metal
+261,2013,Metal,Black Metal
+262,2013,Metal,Doom Metal
+263,2013,Metal,Traditional Doom Metal
+264,2013,Metal,Atmospheric Black Metal
+265,2013,Metal,Black Metal
+266,2013,Metal,Progressive Metal
+267,2013,Metal,Progressive Metal
+268,2013,Metal,Melodic Death Metal
+269,2013,Metal,Doom Metal
+270,2013,Metal,Death Metal
+271,2013,Metal,Death Doom Metal
+272,2013,Metal,Atmospheric Sludge Metal
+273,2013,Metal,Heavy Metal
+274,2013,Metal,Death Metal
+275,2013,Metal,Speed Metal
+276,2013,Metal,Technical Death Metal
+277,2013,Metal,Blackgaze
+278,2013,Metal,Mathcore
+279,2012,Metal,Alternative Metal
+280,2012,Metal,Metalcore
+281,2012,Metal,Progressive Metal
+282,2012,Metal,Doom Metal
+283,2012,Metal,Black Metal
+284,2012,Metal,Progressive Metal
+285,2012,Metal,Power Metal
+286,2012,Metal,Progressive Metal
+287,2012,Metal,Brutal Death Metal
+288,2012,Metal,Black Metal
+289,2012,Metal,Deathgrind
+290,2012,Metal,Progressive Metal
+291,2012,Metal,Mathcore
+292,2012,Metal,Metalcore
+293,2012,Metal,Black Metal
+294,2012,Metal,Melodic Death Metal
+295,2012,Metal,Atmospheric Black Metal
+296,2012,Metal,Progressive Metal
+297,2012,Metal,Funeral Doom Metal
+298,2012,Metal,Avant-Garde Metal
+299,2012,Metal,Atmospheric Sludge Metal
+300,2012,Metal,Gothic Metal
+301,2012,Metal,Pagan Black Metal
+302,2012,Metal,Slam Death Metal
+303,2012,Metal,Progressive Metal
+304,2012,Metal,Metalcore
+305,2012,Metal,Avant-Garde Metal
+306,2012,Metal,Atmospheric Black Metal
+307,2011,Metal,Stoner Metal
+308,2011,Metal,Progressive Metal
+309,2011,Metal,Technical Thrash Metal
+310,2011,Metal,Progressive Metal
+311,2011,Metal,Grindcore
+312,2011,Metal,Progressive Metal
+313,2011,Metal,Technical Death Metal
+314,2011,Metal,Progressive Metal
+315,2011,Metal,Funeral Doom Metal
+316,2011,Metal,Folk Metal
+317,2011,Metal,Symphonic Metal
+318,2011,Metal,Sludge Metal
+319,2011,Metal,Post-Metal
+320,2011,Metal,Progressive Metal
+321,2011,Metal,Doom Metal
+322,2011,Metal,Blackgaze
+323,2011,Metal,Funeral Doom Metal
+324,2011,Metal,Heavy Metal
+325,2011,Metal,Atmospheric Black Metal
+326,2011,Metal,Progressive Metal
+327,2011,Metal,Atmospheric Black Metal
+328,2011,Metal,Power Metal
+329,2011,Metal,Folk Metal
+330,2011,Metal,Atmospheric Black Metal
+331,2011,Metal,Speed Metal
+332,2011,Metal,Black Metal
+333,2011,Metal,Alternative Metal
+334,2011,Metal,Black Metal
+335,2011,Metal,Grindcore
+336,2011,Metal,Doom Metal
+337,2011,Metal,Heavy Metal
+338,2010,Metal,Black Metal
+339,2010,Metal,Grindcore
+340,2010,Metal,Atmospheric Black Metal
+341,2010,Metal,Alternative Metal
+342,2010,Metal,Progressive Metal
+343,2010,Metal,Black Metal
+344,2010,Metal,Metalcore
+345,2010,Metal,Atmospheric Black Metal
+346,2010,Metal,Progressive Metal
+347,2010,Metal,Blackgaze
+348,2010,Metal,Black Metal
+349,2010,Metal,Heavy Metal
+350,2010,Metal,Power Metal
+351,2010,Metal,Doom Metal
+352,2010,Metal,Black Metal
+353,2010,Metal,Death Metal
+354,2010,Metal,Atmospheric Black Metal
+355,2010,Metal,Doom Metal
+356,2010,Metal,Thrash Metal
+357,2010,Metal,Progressive Metal
+358,2010,Metal,Atmospheric Sludge Metal
+359,2010,Metal,Heavy Metal
+360,2010,Metal,Brutal Death Metal
+361,2010,Metal,Power Metal
+362,2010,Metal,Sludge Metal
+363,2010,Metal,Mathcore
+364,2010,Metal,Sludge Metal
+365,2010,Metal,Death Doom Metal
+366,2010,Metal,Doom Metal
+367,2009,Metal,Progressive Metal
+368,2009,Metal,Technical Thrash Metal
+369,2009,Metal,Folk Metal
+370,2009,Metal,Metalcore
+371,2009,Metal,Technical Death Metal
+372,2009,Metal,Death Metal
+373,2009,Metal,Death Metal
+374,2009,Metal,Progressive Metal
+375,2009,Metal,Atmospheric Black Metal
+376,2009,Metal,Death Metal
+377,2009,Metal,Alternative Metal
+378,2009,Metal,Grindcore
+379,2009,Metal,Atmospheric Black Metal
+380,2009,Metal,Progressive Metal
+381,2009,Metal,Avant-Garde Metal
+382,2009,Metal,Progressive Metal
+383,2009,Metal,Sludge Metal
+384,2009,Metal,Melodic Death Metal
+385,2009,Metal,Drone Metal
+386,2009,Metal,Death Metal
+387,2009,Metal,Technical Death Metal
+388,2009,Metal,Deathcore
+389,2009,Metal,Melodic Death Metal
+390,2009,Metal,Death Doom Metal
+391,2009,Metal,Atmospheric Sludge Metal
+392,2009,Metal,Death Metal
+393,2009,Metal,Black Metal
+394,2009,Metal,Doom Metal
+395,2009,Metal,Post-Metal
+396,2009,Metal,Heavy Metal
+397,2009,Metal,Atmospheric Sludge Metal
+398,2009,Metal,Symphonic Metal
+399,2009,Metal,Folk Metal
+400,2009,Metal,Progressive Metal
+401,2008,Metal,Funeral Doom Metal
+402,2008,Metal,Melodic Death Metal
+403,2008,Metal,Progressive Metal
+404,2008,Metal,Sludge Metal
+405,2008,Metal,Death Metal
+406,2008,Metal,Atmospheric Black Metal
+407,2008,Metal,Progressive Metal
+408,2008,Metal,Atmospheric Black Metal
+409,2008,Metal,Black Metal
+410,2008,Metal,Death Metal
+411,2008,Metal,Alternative Metal
+412,2008,Metal,Progressive Metal
+413,2008,Metal,Progressive Metal
+414,2008,Metal,Atmospheric Sludge Metal
+415,2008,Metal,Folk Metal
+416,2008,Metal,Power Metal
+417,2008,Metal,Atmospheric Black Metal
+418,2008,Metal,Gothic Metal
+419,2008,Metal,Atmospheric Sludge Metal
+420,2008,Metal,Sludge Metal
+421,2008,Metal,Metalcore
+422,2008,Metal,Heavy Metal
+423,2008,Metal,Death Doom Metal
+424,2008,Metal,Melodic Death Metal
+425,2008,Metal,Gothic Metal
+426,2008,Metal,Progressive Metal
+427,2007,Metal,Black Metal
+428,2007,Metal,Depressive Black Metal
+429,2007,Metal,Folk Metal
+430,2007,Metal,Folk Metal
+431,2007,Metal,Doom Metal
+432,2007,Metal,Atmospheric Black Metal
+433,2007,Metal,Drone Metal
+434,2007,Metal,Grindcore
+435,2007,Metal,Progressive Metal
+436,2007,Metal,Black Metal
+437,2007,Metal,Doom Metal
+438,2007,Metal,Funeral Doom Metal
+439,2007,Metal,Progressive Metal
+440,2007,Metal,Powerviolence
+441,2007,Metal,Atmospheric Sludge Metal
+442,2007,Metal,Heavy Metal
+443,2007,Metal,Doom Metal
+444,2007,Metal,Mathcore
+445,2007,Metal,Funeral Doom Metal
+446,2007,Metal,Melodic Metalcore
+447,2007,Metal,Groove Metal
+448,2007,Metal,Melodic Death Metal
+449,2007,Metal,Atmospheric Sludge Metal
+450,2007,Metal,Stoner Metal
+451,2007,Metal,Atmospheric Black Metal
+452,2007,Metal,Progressive Metal
+453,2007,Metal,Progressive Metal
+454,2007,Metal,Alternative Metal
+455,2007,Metal,Progressive Metal
+456,2007,Metal,Brutal Death Metal
+457,2007,Metal,Atmospheric Sludge Metal
+458,2007,Metal,Alternative Metal
+459,2007,Metal,Drone Metal
+460,2007,Metal,Melodic Black Metal
+461,2007,Metal,Atmospheric Black Metal
+462,2007,Metal,Funeral Doom Metal
+463,2007,Metal,Dissonant Death Metal
+464,2006,Metal,Post-Metal
+465,2006,Metal,Doom Metal
+466,2006,Metal,Atmospheric Sludge Metal
+467,2006,Metal,Doom Metal
+468,2006,Metal,Atmospheric Black Metal
+469,2006,Metal,Progressive Metal
+470,2006,Metal,Heavy Metal
+471,2006,Metal,Atmospheric Black Metal
+472,2006,Metal,Death Metal
+473,2006,Metal,Alternative Metal
+474,2006,Metal,Alternative Metal
+475,2006,Metal,Industrial Metal
+476,2006,Metal,Melodic Death Metal
+477,2006,Metal,Power Metal
+478,2006,Metal,Sludge Metal
+479,2006,Metal,Alternative Metal
+480,2006,Metal,Atmospheric Black Metal
+481,2006,Metal,Progressive Metal
+482,2006,Metal,Djent
+483,2006,Metal,Epic Doom Metal
+484,2006,Metal,Progressive Metal
+485,2006,Metal,Atmospheric Black Metal
+486,2006,Metal,Mathcore
+487,2006,Metal,Doom Metal
+488,2006,Metal,Funeral Doom Metal
+489,2006,Metal,Power Metal
+490,2006,Metal,Atmospheric Black Metal
+491,2006,Metal,Death Metal
+492,2006,Metal,Black Metal
+493,2006,Metal,Melodic Death Metal
+494,2006,Metal,Death Doom Metal
+495,2006,Metal,Neo-Prog
+496,2006,Metal,Technical Death Metal
+497,2005,Metal,Progressive Metal
+498,2005,Metal,Death Metal
+499,2005,Metal,Progressive Metal
+500,2005,Metal,Folk Metal
+501,2005,Metal,Atmospheric Sludge Metal
+502,2005,Metal,Technical Death Metal
+503,2005,Metal,Folk Metal
+504,2005,Metal,Atmospheric Black Metal
+505,2005,Metal,Industrial Metal
+506,2005,Metal,Power Metal
+507,2005,Metal,Thrash Metal
+508,2005,Metal,Alternative Metal
+509,2005,Metal,Funeral Doom Metal
+510,2005,Metal,Doom Metal
+511,2005,Metal,Black Metal
+512,2005,Metal,Funeral Doom Metal
+513,2005,Metal,Gothic Metal
+514,2005,Metal,Djent
+515,2005,Metal,Thrash Metal
+516,2005,Metal,Technical Death Metal
+517,2005,Metal,Death Metal
+518,2005,Metal,Technical Death Metal
+519,2005,Metal,Power Metal
+520,2004,Metal,Atmospheric Sludge Metal
+521,2004,Metal,Sludge Metal
+522,2004,Metal,Grindcore
+523,2004,Metal,Mathcore
+524,2004,Metal,Death Metal
+525,2004,Metal,Atmospheric Sludge Metal
+526,2004,Metal,Atmospheric Black Metal
+527,2004,Metal,Atmospheric Sludge Metal
+528,2004,Metal,Thrash Metal
+529,2004,Metal,Power Metal
+530,2004,Metal,Black Metal
+531,2004,Metal,Progressive Metal
+532,2004,Metal,Progressive Metal
+533,2004,Metal,Heavy Metal
+534,2004,Metal,Grindcore
+535,2004,Metal,Heavy Metal
+536,2004,Metal,Mathcore
+537,2004,Metal,Death Doom Metal
+538,2004,Metal,Progressive Metal
+539,2004,Metal,Atmospheric Black Metal
+540,2004,Metal,Progressive Metal
+541,2004,Metal,Neo-Prog
+542,2004,Metal,Heavy Metal
+543,2004,Metal,Drone Metal
+544,2004,Metal,Power Metal
+545,2004,Metal,Melodic Death Metal
+546,2004,Metal,Death Metal
+547,2004,Metal,Funeral Doom Metal
+548,2004,Metal,Death Doom Metal
+549,2004,Metal,Avant-Garde Metal
+550,2003,Metal,Post-Metal
+551,2003,Metal,Stoner Metal
+552,2003,Metal,Stoner Metal
+553,2003,Metal,Folk Metal
+554,2003,Metal,Avant-Garde Metal
+555,2003,Metal,Power Metal
+556,2003,Metal,Death Metal
+557,2003,Metal,Grindcore
+558,2003,Metal,Heavy Metal
+559,2003,Metal,Melodic Death Metal
+560,2003,Metal,Progressive Metal
+561,2003,Metal,Progressive Metal
+562,2003,Metal,Industrial Metal
+563,2003,Metal,Death Metal
+564,2003,Metal,Atmospheric Black Metal
+565,2003,Metal,Depressive Black Metal
+566,2003,Metal,Melodic Death Metal
+567,2003,Metal,Power Metal
+568,2003,Metal,Death Metal
+569,2003,Metal,Power Metal
+570,2003,Metal,Progressive Metal
+571,2003,Metal,Black Metal
+572,2003,Metal,Melodic Black Metal
+573,2003,Metal,US Power Metal
+574,2003,Metal,Neo-Prog
+575,2003,Metal,Death Doom Metal
+576,2002,Metal,Post-Metal
+577,2002,Metal,Atmospheric Sludge Metal
+578,2002,Metal,Death Metal
+579,2002,Metal,Progressive Metal
+580,2002,Metal,Progressive Metal
+581,2002,Metal,Stoner Metal
+582,2002,Metal,Black Metal
+583,2002,Metal,Avant-Garde Metal
+584,2002,Metal,Technical Death Metal
+585,2002,Metal,Doom Metal
+586,2002,Metal,Technical Death Metal
+587,2002,Metal,Progressive Metal
+588,2002,Metal,Melodic Death Metal
+589,2002,Metal,Progressive Metal
+590,2002,Metal,Sludge Metal
+591,2002,Metal,Progressive Metal
+592,2002,Metal,Progressive Metal
+593,2002,Metal,Death Doom Metal
+594,2002,Metal,Black Metal
+595,2002,Metal,Black Metal
+596,2001,Metal,Alternative Metal
+597,2001,Metal,Mathcore
+598,2001,Metal,Progressive Metal
+599,2001,Metal,Alternative Metal
+600,2001,Metal,Progressive Metal
+601,2001,Metal,Atmospheric Sludge Metal
+602,2001,Metal,Grindcore
+603,2001,Metal,Progressive Metal
+604,2001,Metal,Atmospheric Black Metal
+605,2001,Metal,Death Doom Metal
+606,2001,Metal,Progressive Metal
+607,2001,Metal,Progressive Metal
+608,2001,Metal,Technical Death Metal
+609,2001,Metal,Folk Metal
+610,2001,Metal,Melodic Black Metal
+611,2001,Metal,Power Metal
+612,2001,Metal,Sludge Metal
+613,2001,Metal,Atmospheric Black Metal
+614,2001,Metal,Power Metal
+615,2001,Metal,Avant-Garde Metal
+616,2001,Metal,Progressive Metal
+617,2001,Metal,Thrash Metal
+618,2001,Metal,Power Metal
+619,2001,Metal,Symphonic Metal
+620,2001,Metal,Funeral Doom Metal
+621,2001,Metal,Funeral Doom Metal
+622,2001,Metal,Folk Metal
+623,2001,Metal,Progressive Metal
+624,2001,Metal,Industrial Metal
+625,2001,Metal,Metalcore
+626,2001,Metal,Power Metal
+627,2001,Metal,Death Metal
+628,2001,Metal,Black Metal
+629,2001,Metal,Progressive Metal
+630,2000,Metal,Stoner Metal
+631,2000,Metal,Alternative Metal
+632,2000,Metal,Death Metal
+633,2000,Metal,Atmospheric Black Metal
+634,2000,Metal,Brutal Death Metal
+635,2000,Metal,Grindcore
+636,2000,Metal,Death Metal
+637,2000,Metal,Technical Death Metal
+638,2000,Metal,Power Metal
+639,2000,Metal,Progressive Metal
+640,2000,Metal,Progressive Metal
+641,2000,Metal,Heavy Metal
+642,2000,Metal,Progressive Metal
+643,2000,Metal,Heavy Metal
+644,2000,Metal,Progressive Metal
+645,2000,Metal,Metalcore
+646,2000,Metal,Melodic Death Metal
+647,2000,Metal,Grindcore
+648,2000,Metal,Heavy Metal
+649,2000,Metal,Death Metal
+650,2000,Metal,Brutal Death Metal
+1,2022,Rock,Art Rock
+2,2022,Rock,Avant-Prog
+3,2022,Rock,Art Rock
+4,2022,Rock,Hardcore Punk
+5,2022,Rock,Jazz-Rock
+6,2022,Rock,Noise Rock
+7,2022,Rock,Art Rock
+8,2022,Rock,Neo-Psychedelia
+9,2022,Rock,Screamo
+10,2022,Rock,Psychedelic Rock
+11,2022,Rock,Post-Hardcore
+12,2022,Rock,Dance-Punk
+13,2022,Rock,Indie Rock
+14,2022,Rock,Post-Hardcore
+15,2022,Rock,Psychedelic Rock
+16,2022,Rock,Gothic Rock
+17,2022,Rock,Noise Rock
+18,2022,Rock,Zeuhl
+19,2022,Rock,Riot Grrrl
+20,2022,Rock,Noise Rock
+21,2022,Rock,Emoviolence
+22,2021,Rock,Neo-Psychedelia
+23,2021,Rock,Post-Rock
+24,2021,Rock,Avant-Prog
+25,2021,Rock,Shoegaze
+26,2021,Rock,Art Punk
+27,2021,Rock,Post-Punk
+28,2021,Rock,Post-Hardcore
+29,2021,Rock,Post-Rock
+30,2021,Rock,Shoegaze
+31,2021,Rock,Art Rock
+32,2021,Rock,Tishoumaren
+33,2021,Rock,Pop Rock
+34,2021,Rock,Post-Rock
+35,2021,Rock,Hardcore Breaks
+36,2021,Rock,Shoegaze
+37,2021,Rock,Progressive Rock
+38,2020,Rock,Indie Rock
+39,2020,Rock,Hardcore Hip Hop
+40,2020,Rock,Art Rock
+41,2020,Rock,Neo-Psychedelia
+42,2020,Rock,Pop Punk
+43,2020,Rock,Avant-Prog
+44,2020,Rock,Piano Rock
+45,2020,Rock,Progressive Rock
+46,2020,Rock,Pop Rock
+47,2020,Rock,Math Rock
+48,2020,Rock,Post-Punk
+49,2020,Rock,Hardcore Hip Hop
+50,2020,Rock,Symphonic Prog
+51,2020,Rock,Neo-Psychedelia
+52,2020,Rock,Emo
+53,2020,Rock,Hardcore Breaks
+54,2019,Rock,Math Rock
+55,2019,Rock,Midwest Emo
+56,2019,Rock,Hardcore Punk
+57,2019,Rock,Yakousei
+58,2019,Rock,Noise Rock
+59,2019,Rock,J-Rock
+60,2019,Rock,Hardcore Hip Hop
+61,2019,Rock,Progressive Rock
+62,2019,Rock,Art Rock
+63,2019,Rock,Shoegaze
+64,2019,Rock,Hardcore Hip Hop
+65,2019,Rock,Shoegaze
+66,2019,Rock,Slowcore
+67,2019,Rock,Screamo
+68,2019,Rock,Screamo
+69,2019,Rock,Zeuhl
+70,2019,Rock,Symphonic Prog
+71,2018,Rock,Indie Rock
+72,2018,Rock,Noise Rock
+73,2018,Rock,Neo-Psychedelia
+74,2018,Rock,Hardcore Hip Hop
+75,2018,Rock,Neo-Psychedelia
+76,2018,Rock,Indie Rock
+77,2018,Rock,Post-Punk
+78,2018,Rock,Pop Punk
+79,2018,Rock,Art Punk
+80,2018,Rock,Neo-Psychedelia
+81,2018,Rock,Emoviolence
+82,2018,Rock,Acoustic Rock
+83,2018,Rock,Indie Rock
+84,2018,Rock,Alternative Rock
+85,2018,Rock,Post-Punk
+86,2018,Rock,Art Rock
+87,2018,Rock,Progressive Rock
+88,2018,Rock,Digital Hardcore
+89,2018,Rock,Post-Hardcore
+90,2018,Rock,Indie Rock
+91,2017,Rock,Screamo
+92,2017,Rock,Heavy Psych
+93,2017,Rock,Queercore
+94,2017,Rock,Psychedelic Rock
+95,2017,Rock,Progressive Rock
+96,2017,Rock,New Wave
+97,2017,Rock,Art Rock
+98,2017,Rock,Indie Rock
+99,2017,Rock,Post-Hardcore
+100,2017,Rock,Indie Rock
+101,2017,Rock,Psychedelic Rock
+102,2017,Rock,Progressive Rock
+103,2017,Rock,Post-Punk
+104,2017,Rock,Symphonic Prog
+105,2017,Rock,Post-Hardcore
+106,2017,Rock,Digital Hardcore
+107,2017,Rock,Avant-Prog
+108,2017,Rock,Hardcore Hip Hop
+109,2017,Rock,Slowcore
+110,2017,Rock,Emoviolence
+111,2017,Rock,Heartland Rock
+112,2016,Rock,Art Rock
+113,2016,Rock,Psychedelic Rock
+114,2016,Rock,Indie Rock
+115,2016,Rock,Post-Rock
+116,2016,Rock,Experimental Rock
+117,2016,Rock,Neo-Psychedelia
+118,2016,Rock,Indie Rock
+119,2016,Rock,Psychedelic Rock
+120,2016,Rock,Symphonic Prog
+121,2016,Rock,Post-Hardcore
+122,2016,Rock,Psychedelic Rock
+123,2016,Rock,Noise Rock
+124,2016,Rock,Progressive Rock
+125,2016,Rock,Hardcore Hip Hop
+126,2016,Rock,Progressive Rock
+127,2016,Rock,Indie Rock
+128,2016,Rock,Indie Rock
+129,2016,Rock,Psychedelic Rock
+130,2016,Rock,Post-Hardcore
+131,2016,Rock,Jazz-Rock
+132,2016,Rock,Melodic Hardcore
+133,2015,Rock,Pop Punk
+134,2015,Rock,Progressive Rock
+135,2015,Rock,Progressive Rock
+136,2015,Rock,Indie Rock
+137,2015,Rock,Hard Rock
+138,2015,Rock,Stoner Rock
+139,2015,Rock,Psychedelic Rock
+140,2015,Rock,Shoegaze
+141,2015,Rock,Progressive Rock
+142,2015,Rock,Hardcore Punk
+143,2015,Rock,Slacker Rock
+144,2015,Rock,Slacker Rock
+145,2015,Rock,Post-Punk
+146,2015,Rock,Neo-Psychedelia
+147,2015,Rock,Post-Rock
+148,2015,Rock,Neo-Psychedelia
+149,2014,Rock,Experimental Rock
+150,2014,Rock,Hardcore Hip Hop
+151,2014,Rock,Psychedelic Rock
+152,2014,Rock,Indie Rock
+153,2014,Rock,Progressive Rock
+154,2014,Rock,Emo
+155,2014,Rock,Hardcore Breaks
+156,2014,Rock,Slacker Rock
+157,2014,Rock,Art Rock
+158,2014,Rock,Swancore
+159,2014,Rock,Heartland Rock
+160,2014,Rock,Progressive Rock
+161,2014,Rock,Post-Punk
+162,2014,Rock,Post-Punk
+163,2014,Rock,Shoegaze
+164,2014,Rock,Post-Rock
+165,2014,Rock,Pop Punk
+166,2014,Rock,Neo-Psychedelia
+167,2014,Rock,Avant-Prog
+168,2014,Rock,Indie Rock
+169,2013,Rock,Pop Punk
+170,2013,Rock,Progressive Rock
+171,2013,Rock,Post-Rock
+172,2013,Rock,Heavy Psych
+173,2013,Rock,Symphonic Prog
+174,2013,Rock,Hardcore Hip Hop
+175,2013,Rock,Progressive Rock
+176,2013,Rock,Hard Rock
+177,2013,Rock,Post-Hardcore
+178,2013,Rock,Folk Rock
+179,2013,Rock,Indie Rock
+180,2013,Rock,Progressive Rock
+181,2013,Rock,Progressive Rock
+182,2013,Rock,Ska Punk
+183,2013,Rock,Screamo
+184,2013,Rock,Progressive Rock
+185,2013,Rock,Noise Rock
+186,2013,Rock,Stoner Rock
+187,2013,Rock,Alternative Rock
+188,2013,Rock,Slacker Rock
+189,2013,Rock,Math Rock
+190,2013,Rock,Art Rock
+191,2013,Rock,Indie Rock
+192,2012,Rock,Experimental Rock
+193,2012,Rock,Neo-Psychedelia
+194,2012,Rock,Shoegaze
+195,2012,Rock,Post-Rock
+196,2012,Rock,Hardcore Hip Hop
+197,2012,Rock,Japanese Hardcore
+198,2012,Rock,Slacker Rock
+199,2012,Rock,Slacker Rock
+200,2012,Rock,Slowcore
+201,2012,Rock,Japanese Hardcore
+202,2012,Rock,Progressive Rock
+203,2012,Rock,Symphonic Prog
+204,2012,Rock,Post-Hardcore
+205,2012,Rock,Progressive Rock
+206,2012,Rock,Progressive Rock
+207,2012,Rock,Folk Punk
+208,2012,Rock,Punk Rock
+209,2012,Rock,Symphonic Prog
+210,2012,Rock,Post-Hardcore
+211,2012,Rock,Psychedelic Rock
+212,2012,Rock,Progressive Rock
+213,2012,Rock,Experimental Rock
+214,2012,Rock,AOR
+215,2012,Rock,Indie Rock
+216,2012,Rock,Psychedelic Rock
+217,2012,Rock,Psychedelic Rock
+218,2012,Rock,Midwest Emo
+219,2012,Rock,Screamo
+220,2012,Rock,Indie Rock
+221,2012,Rock,Indie Rock
+222,2012,Rock,Post-Rock
+223,2011,Rock,Hardcore Hip Hop
+224,2011,Rock,Alternative Rock
+225,2011,Rock,Slowcore
+226,2011,Rock,Slacker Rock
+227,2011,Rock,J-Rock
+228,2011,Rock,Indie Rock
+229,2011,Rock,Post-Hardcore
+230,2011,Rock,Post-Punk
+231,2011,Rock,Folk Punk
+232,2011,Rock,Garage Punk
+233,2011,Rock,Pop Punk
+234,2011,Rock,Heavy Psych
+235,2011,Rock,Progressive Rock
+236,2011,Rock,Samba-rock
+237,2011,Rock,Progressive Rock
+238,2011,Rock,Hard Rock
+239,2011,Rock,Progressive Rock
+240,2011,Rock,Symphonic Prog
+241,2011,Rock,Post-Hardcore
+242,2011,Rock,Progressive Rock
+243,2011,Rock,Alternative Rock
+244,2011,Rock,Shoegaze
+245,2011,Rock,Alternative Rock
+246,2011,Rock,Progressive Rock
+247,2011,Rock,Gothic Rock
+248,2011,Rock,Art Rock
+249,2011,Rock,Blues Rock
+250,2010,Rock,Midwest Emo
+251,2010,Rock,Dance-Punk
+252,2010,Rock,Neo-Psychedelia
+253,2010,Rock,Indie Rock
+254,2010,Rock,Indie Rock
+255,2010,Rock,Noise Rock
+256,2010,Rock,Post-Punk
+257,2010,Rock,Art Rock
+258,2010,Rock,Dance-Punk
+259,2010,Rock,Screamo
+260,2010,Rock,Hardcore Punk
+261,2010,Rock,Alternative Rock
+262,2010,Rock,Post-Hardcore
+263,2010,Rock,Psychedelic Rock
+264,2010,Rock,Progressive Rock
+265,2010,Rock,Blues Rock
+266,2010,Rock,Post-Hardcore
+267,2010,Rock,Progressive Rock
+268,2010,Rock,Hardcore Punk
+269,2010,Rock,Industrial Rock
+270,2010,Rock,Celtic Punk
+271,2010,Rock,Noise Rock
+272,2009,Rock,Midwest Emo
+273,2009,Rock,J-Rock
+274,2009,Rock,Post-Hardcore
+275,2009,Rock,Punk Rock
+276,2009,Rock,Zeuhl
+277,2009,Rock,Math Rock
+278,2009,Rock,Avant-Prog
+279,2009,Rock,Pop Rock
+280,2009,Rock,Progressive Rock
+281,2009,Rock,Progressive Rock
+282,2009,Rock,Progressive Rock
+283,2009,Rock,Rock Opera
+284,2009,Rock,Progressive Rock
+285,2009,Rock,Folk Punk
+286,2009,Rock,Symphonic Prog
+287,2009,Rock,Slacker Rock
+288,2009,Rock,Art Rock
+289,2009,Rock,Progressive Rock
+290,2009,Rock,Progressive Rock
+291,2009,Rock,Neo-Psychedelia
+292,2009,Rock,Blues Rock
+293,2009,Rock,Midwest Emo
+294,2009,Rock,Progressive Rock
+295,2009,Rock,Progressive Rock
+296,2009,Rock,Post-Rock
+297,2009,Rock,Progressive Rock
+298,2009,Rock,Progressive Rock
+299,2009,Rock,Progressive Rock
+300,2008,Rock,Post-Punk
+301,2008,Rock,Art Punk
+302,2008,Rock,Rock urbano español
+303,2008,Rock,J-Rock
+304,2008,Rock,Indie Rock
+305,2008,Rock,Pop Rock
+306,2008,Rock,Experimental Rock
+307,2008,Rock,Heartland Rock
+308,2008,Rock,Post-Hardcore
+309,2008,Rock,Indie Rock
+310,2008,Rock,Folk Rock
+311,2008,Rock,Progressive Rock
+312,2008,Rock,Acoustic Rock
+313,2008,Rock,Hardcore Punk
+314,2008,Rock,Emo-Pop
+315,2008,Rock,Post-Rock
+316,2008,Rock,Stoner Rock
+317,2008,Rock,Progressive Rock
+318,2008,Rock,Psychedelic Rock
+319,2008,Rock,Comedy Rock
+320,2008,Rock,Progressive Rock
+321,2008,Rock,Experimental Rock
+322,2008,Rock,Punk Blues
+323,2008,Rock,Dance-Punk
+324,2008,Rock,Progressive Rock
+325,2008,Rock,Punk Rock
+326,2008,Rock,Southern Rock
+327,2008,Rock,Space Rock
+328,2008,Rock,Screamo
+329,2008,Rock,AOR
+330,2008,Rock,Progressive Rock
+331,2008,Rock,Jazz-Rock
+332,2008,Rock,Alternative Rock
+333,2008,Rock,Indie Rock
+334,2007,Rock,Art Rock
+335,2007,Rock,Dance-Punk
+336,2007,Rock,Neo-Psychedelia
+337,2007,Rock,Progressive Rock
+338,2007,Rock,Indie Rock
+339,2007,Rock,Indie Rock
+340,2007,Rock,Post-Hardcore
+341,2007,Rock,Art Rock
+342,2007,Rock,Ska Punk
+343,2007,Rock,Progressive Rock
+344,2007,Rock,Shoegaze
+345,2007,Rock,Progressive Rock
+346,2007,Rock,Progressive Rock
+347,2007,Rock,Progressive Rock
+348,2007,Rock,Progressive Rock
+349,2007,Rock,Indie Rock
+350,2007,Rock,Experimental Rock
+351,2007,Rock,Art Punk
+352,2007,Rock,Post-Rock
+353,2007,Rock,Post-Rock
+354,2007,Rock,Indie Rock
+355,2007,Rock,Art Rock
+356,2007,Rock,Psychedelic Rock
+357,2007,Rock,Space Rock
+358,2007,Rock,Punk Rock
+359,2006,Rock,Emo
+360,2006,Rock,Rock Opera
+361,2006,Rock,Ska Punk
+362,2006,Rock,Garage Punk
+363,2006,Rock,Indie Rock
+364,2006,Rock,Pop Rock
+365,2006,Rock,Indie Rock
+366,2006,Rock,Indie Rock
+367,2006,Rock,Acoustic Rock
+368,2006,Rock,Post-Hardcore
+369,2006,Rock,Jazz-Rock
+370,2006,Rock,Progressive Rock
+371,2006,Rock,Progressive Rock
+372,2006,Rock,Folk Rock
+373,2006,Rock,Gothic Rock
+374,2006,Rock,Folk Rock
+375,2006,Rock,Punk Blues
+376,2006,Rock,Alternative Rock
+377,2006,Rock,Folk Rock
+378,2006,Rock,Dance-Punk
+379,2006,Rock,Punk Rock
+380,2006,Rock,Experimental Rock
+381,2006,Rock,Alternative Rock
+382,2006,Rock,Punk Rock
+383,2005,Rock,Progressive Rock
+384,2005,Rock,Noise Rock
+385,2005,Rock,Indie Rock
+386,2005,Rock,Neo-Psychedelia
+387,2005,Rock,Screamo
+388,2005,Rock,Progressive Rock
+389,2005,Rock,Post-Rock
+390,2005,Rock,Midwest Emo
+391,2005,Rock,Indie Rock
+392,2005,Rock,Noise Rock
+393,2005,Rock,Folk Rock
+394,2005,Rock,Progressive Rock
+395,2005,Rock,Alternative Rock
+396,2005,Rock,Folk Punk
+397,2005,Rock,Math Rock
+398,2005,Rock,Screamo
+399,2005,Rock,Psychedelic Rock
+400,2005,Rock,Post-Rock
+401,2005,Rock,Progressive Rock
+402,2005,Rock,Progressive Rock
+403,2005,Rock,Post-Punk Revival
+404,2005,Rock,Punk Blues
+405,2005,Rock,Indie Rock
+406,2005,Rock,Symphonic Prog
+407,2005,Rock,Slacker Rock
+408,2005,Rock,Pop Punk
+409,2005,Rock,Post-Rock
+410,2005,Rock,Noise Rock
+411,2005,Rock,Pop Rock
+412,2005,Rock,Progressive Rock
+413,2005,Rock,Stoner Rock
+414,2005,Rock,Indie Rock
+415,2004,Rock,Indie Rock
+416,2004,Rock,Alternative Rock
+417,2004,Rock,Zeuhl
+418,2004,Rock,Post-Rock
+419,2004,Rock,Screamo
+420,2004,Rock,Post-Rock
+421,2004,Rock,Emo-Pop
+422,2004,Rock,Progressive Rock
+423,2004,Rock,Indie Rock
+424,2004,Rock,Alternative Rock
+425,2004,Rock,Post-Hardcore
+426,2004,Rock,Alternative Rock
+427,2004,Rock,Southern Rock
+428,2004,Rock,Art Rock
+429,2004,Rock,Experimental Rock
+430,2004,Rock,Neo-Psychedelia
+431,2004,Rock,Progressive Rock
+432,2004,Rock,D-Beat
+433,2004,Rock,Indie Rock
+434,2004,Rock,Alternative Rock
+435,2004,Rock,Stoner Rock
+436,2004,Rock,Indie Rock
+437,2004,Rock,Psychedelic Rock
+438,2004,Rock,Progressive Rock
+439,2004,Rock,Post-Punk
+440,2004,Rock,Post-Hardcore
+441,2004,Rock,Indie Rock
+442,2004,Rock,Neo-Psychedelia
+443,2004,Rock,Garage Rock
+444,2003,Rock,Art Rock
+445,2003,Rock,Folk Rock
+446,2003,Rock,Progressive Rock
+447,2003,Rock,Progressive Rock
+448,2003,Rock,Garage Rock Revival
+449,2003,Rock,Alternative Rock
+450,2003,Rock,Garage Rock Revival
+451,2003,Rock,Folk Rock
+452,2003,Rock,Southern Rock
+453,2003,Rock,Progressive Rock
+454,2003,Rock,Art Rock
+455,2003,Rock,Indie Rock
+456,2003,Rock,Ska Punk
+457,2003,Rock,Avant-Prog
+458,2003,Rock,Post-Punk
+459,2003,Rock,Indie Rock
+460,2003,Rock,Indie Rock
+461,2003,Rock,Noise Rock
+462,2003,Rock,Screamo
+463,2003,Rock,Indie Rock
+464,2003,Rock,Noise Rock
+465,2003,Rock,Progressive Rock
+466,2003,Rock,Alternative Rock
+467,2003,Rock,Indie Rock
+468,2003,Rock,Progressive Rock
+469,2003,Rock,Progressive Rock
+470,2003,Rock,Alternative Rock
+471,2003,Rock,Folk Rock
+472,2003,Rock,Alternative Rock
+473,2002,Rock,Post-Punk Revival
+474,2002,Rock,Stoner Rock
+475,2002,Rock,Indie Rock
+476,2002,Rock,Post-Rock
+477,2002,Rock,Hardcore Hip Hop
+478,2002,Rock,Indie Rock
+479,2002,Rock,Neo-Psychedelia
+480,2002,Rock,Slowcore
+481,2002,Rock,Post-Rock
+482,2002,Rock,Progressive Rock
+483,2002,Rock,Acoustic Rock
+484,2002,Rock,Indie Rock
+485,2002,Rock,Post-Hardcore
+486,2002,Rock,Screamo
+487,2002,Rock,Experimental Rock
+488,2002,Rock,Noise Rock
+489,2002,Rock,Alternative Rock
+490,2002,Rock,Psychedelic Rock
+491,2002,Rock,Post-Hardcore
+492,2002,Rock,Alternative Rock
+493,2002,Rock,Noise Rock
+494,2002,Rock,UK Garage
+495,2002,Rock,Art Rock
+496,2002,Rock,Post-Rock
+497,2002,Rock,Post-Hardcore
+498,2002,Rock,Progressive Rock
+499,2002,Rock,Jazz-Rock
+500,2002,Rock,Alternative Rock
+501,2002,Rock,Neocrust
+502,2002,Rock,Experimental Rock
+503,2002,Rock,Indie Rock
+504,2002,Rock,Slowcore
+505,2002,Rock,Indie Rock
+506,2002,Rock,Screamo
+507,2002,Rock,Art Rock
+508,2002,Rock,Math Rock
+509,2002,Rock,Southern Rock
+510,2001,Rock,Garage Rock Revival
+511,2001,Rock,Indie Rock
+512,2001,Rock,Art Rock
+513,2001,Rock,Post-Hardcore
+514,2001,Rock,Post-Rock
+515,2001,Rock,Indie Rock
+516,2001,Rock,Slowcore
+517,2001,Rock,Indie Rock
+518,2001,Rock,Post-Hardcore
+519,2001,Rock,Garage Rock Revival
+520,2001,Rock,Indie Rock
+521,2001,Rock,Indie Rock
+522,2001,Rock,Folk Rock
+523,2001,Rock,Emo
+524,2001,Rock,Screamo
+525,2001,Rock,Screamo
+526,2001,Rock,Indie Rock
+527,2001,Rock,Alternative Rock
+528,2001,Rock,Symphonic Prog
+529,2001,Rock,Alternative Rock
+530,2001,Rock,Alternative Rock
+531,2001,Rock,Alternative Rock
+532,2001,Rock,Japanese Hardcore
+533,2001,Rock,Alternative Rock
+534,2001,Rock,Piano Rock
+535,2001,Rock,Post-Rock
+536,2000,Rock,Art Rock
+537,2000,Rock,Post-Rock
+538,2000,Rock,Post-Rock
+539,2000,Rock,Indie Rock
+540,2000,Rock,Post-Hardcore
+541,2000,Rock,J-Rock
+542,2000,Rock,Alternative Rock
+543,2000,Rock,Emoviolence
+544,2000,Rock,Stoner Rock
+545,2000,Rock,Neo-Psychedelia
+546,2000,Rock,Post-Rock
+547,2000,Rock,Slowcore
+548,2000,Rock,Post-Hardcore
+549,2000,Rock,Progressive Rock
+550,2000,Rock,Shoegaze
+551,2000,Rock,Hardcore Hip Hop
+552,2000,Rock,Slowcore
+553,2000,Rock,Pop Rock
+554,2000,Rock,Emoviolence
+555,2000,Rock,Progressive Rock
+556,2000,Rock,Emoviolence
+557,2000,Rock,Alternative Rock
+558,2000,Rock,Stenchcore
+559,2000,Rock,Pop Rock
+560,2000,Rock,Emoviolence
+561,2000,Rock,Indie Rock
+562,2000,Rock,Math Rock
+563,2000,Rock,Post-Hardcore
+564,2000,Rock,Post-Hardcore
+565,2000,Rock,Progressive Rock
+566,2000,Rock,Stoner Rock
+567,2000,Rock,Math Rock
+568,2000,Rock,Alternative Rock
+2,2022,Pop,Indie Pop
+3,2022,Pop,Dream Pop
+4,2022,Pop,Baroque Pop
+5,2022,Pop,Art Pop
+6,2022,Pop,Art Pop
+7,2022,Pop,Glitch Pop
+8,2022,Pop,Art Pop
+9,2022,Pop,Dance-Pop
+10,2022,Pop,Synthpop
+11,2022,Pop,Dream Pop
+12,2022,Pop,Power Pop
+13,2021,Pop,Synthpop
+14,2021,Pop,Art Pop
+15,2021,Pop,Indie Pop
+16,2021,Pop,Glitch Pop
+17,2021,Pop,Noise Pop
+18,2021,Pop,Electropop
+19,2021,Pop,Dance-Pop
+20,2021,Pop,Indietronica
+21,2021,Pop,Dream Pop
+22,2021,Pop,J-Pop
+23,2020,Pop,Dance-Pop
+24,2020,Pop,Art Pop
+25,2020,Pop,Hyperpop
+26,2020,Pop,Indie Pop
+27,2020,Pop,Dance-Pop
+28,2020,Pop,City Pop
+29,2020,Pop,Art Pop
+30,2020,Pop,J-Pop
+31,2020,Pop,Dance-Pop
+32,2020,Pop,Art Pop
+33,2020,Pop,Art Pop
+34,2020,Pop,Synthpop
+35,2020,Pop,Indie Pop
+36,2019,Pop,Baroque Pop
+37,2019,Pop,Art Pop
+38,2019,Pop,Noise Pop
+39,2019,Pop,Arabic Pop
+40,2019,Pop,Ambient Pop
+41,2019,Pop,Synthpop
+42,2019,Pop,Art Pop
+43,2019,Pop,Art Pop
+44,2019,Pop,Electropop
+45,2019,Pop,Progressive Pop
+46,2019,Pop,Progressive Pop
+47,2019,Pop,Art Pop
+48,2019,Pop,Jazz Pop
+49,2018,Pop,Pop Rap
+50,2018,Pop,Bubblegum Bass
+51,2018,Pop,Twee Pop
+52,2018,Pop,Synthpop
+53,2018,Pop,Progressive Pop
+54,2018,Pop,Dream Pop
+55,2018,Pop,Noise Pop
+56,2018,Pop,Pop Rap
+57,2018,Pop,Power Pop
+58,2018,Pop,Flamenco Pop
+59,2018,Pop,Ambient Pop
+60,2018,Pop,Indie Pop
+61,2018,Pop,Art Pop
+62,2018,Pop,Art Pop
+63,2018,Pop,City Pop
+64,2017,Pop,Synthpop
+65,2017,Pop,Pop Rap
+66,2017,Pop,Art Pop
+67,2017,Pop,Pop Rap
+68,2017,Pop,K-Pop
+69,2017,Pop,Pop Rap
+70,2017,Pop,Alt-Pop
+71,2017,Pop,Indie Pop
+72,2017,Pop,Twee Pop
+73,2017,Pop,Dream Pop
+74,2017,Pop,Art Pop
+75,2017,Pop,K-Pop
+76,2017,Pop,Art Pop
+77,2017,Pop,K-Pop
+78,2017,Pop,Progressive Pop
+79,2016,Pop,Art Pop
+80,2016,Pop,Pop Rap
+81,2016,Pop,Power Pop
+82,2016,Pop,Progressive Pop
+83,2016,Pop,Synthpop
+84,2016,Pop,Glitch Pop
+85,2016,Pop,Twee Pop
+86,2016,Pop,Electropop
+87,2016,Pop,Power Pop
+88,2016,Pop,Art Pop
+89,2016,Pop,Synthpop
+90,2016,Pop,Art Pop
+91,2016,Pop,Progressive Pop
+92,2016,Pop,K-Pop
+93,2016,Pop,Plunderphonics
+94,2016,Pop,Synthpop
+95,2016,Pop,Chamber Pop
+96,2015,Pop,Dance-Pop
+97,2015,Pop,Bubblegum Bass
+98,2015,Pop,Art Pop
+99,2015,Pop,Glitch Pop
+100,2015,Pop,Art Pop
+101,2015,Pop,Dream Pop
+102,2015,Pop,Art Pop
+103,2015,Pop,J-Pop
+104,2015,Pop,Psychedelic Pop
+105,2015,Pop,Electropop
+106,2015,Pop,Dream Pop
+107,2015,Pop,K-Pop
+108,2015,Pop,Art Pop
+109,2015,Pop,Psychedelic Pop
+110,2015,Pop,Art Pop
+111,2015,Pop,Art Pop
+112,2015,Pop,Chamber Pop
+113,2014,Pop,Art Pop
+114,2014,Pop,Shibuya-kei
+115,2014,Pop,Twee Pop
+116,2014,Pop,Art Pop
+117,2014,Pop,Electropop
+118,2014,Pop,Hypnagogic Pop
+119,2014,Pop,Art Pop
+120,2014,Pop,Art Pop
+121,2013,Pop,Art Pop
+122,2013,Pop,Indietronica
+123,2013,Pop,Glitch Pop
+124,2013,Pop,Alt-Pop
+125,2013,Pop,Electropop
+126,2013,Pop,Ambient Pop
+127,2013,Pop,Dream Pop
+128,2013,Pop,Art Pop
+129,2013,Pop,Indie Pop
+130,2012,Pop,Dream Pop
+131,2012,Pop,Art Pop
+132,2012,Pop,Minimal Wave
+133,2012,Pop,Noise Pop
+134,2012,Pop,Math Pop
+135,2012,Pop,Synthpop
+136,2012,Pop,Jangle Pop
+137,2012,Pop,Ambient Pop
+138,2012,Pop,Synthpop
+139,2011,Pop,Plunderphonics
+140,2011,Pop,Sophisti-Pop
+141,2011,Pop,Shibuya-kei
+142,2011,Pop,Art Pop
+143,2011,Pop,Art Pop
+144,2011,Pop,Synthpop
+145,2010,Pop,Pop Rap
+146,2010,Pop,Electropop
+147,2010,Pop,Art Pop
+148,2010,Pop,Dream Pop
+149,2010,Pop,Power Pop
+150,2010,Pop,Noise Pop
+151,2010,Pop,Electropop
+152,2010,Pop,Bedroom Pop
+153,2010,Pop,Synthpop
+154,2010,Pop,Psychedelic Pop
+155,2010,Pop,Synthpop
+156,2010,Pop,Glitch Pop
+157,2010,Pop,Psychedelic Pop
+158,2010,Pop,Indie Pop
+159,2010,Pop,Indie Pop
+160,2009,Pop,Indie Pop
+161,2009,Pop,Psychedelic Pop
+162,2009,Pop,Hypnagogic Pop
+163,2009,Pop,Power Pop
+164,2009,Pop,Pop Rap
+165,2009,Pop,Art Pop
+166,2009,Pop,J-Pop
+167,2009,Pop,Indie Pop
+168,2009,Pop,Hypnagogic Pop
+169,2009,Pop,Art Pop
+170,2009,Pop,Progressive Pop
+171,2009,Pop,Power Pop
+172,2009,Pop,J-Pop
+173,2008,Pop,Noise Pop
+174,2008,Pop,Jazz Pop
+175,2008,Pop,Electropop
+176,2008,Pop,Indie Pop
+177,2008,Pop,Electropop
+178,2008,Pop,Indie Pop
+179,2007,Pop,Psychedelic Pop
+180,2007,Pop,Pop Rap
+181,2007,Pop,Psychedelic Pop
+182,2007,Pop,Chamber Pop
+183,2007,Pop,Dance-Pop
+184,2007,Pop,Electropop
+185,2007,Pop,Art Pop
+186,2006,Pop,Art Pop
+187,2006,Pop,Electropop
+188,2006,Pop,Synthpop
+189,2006,Pop,J-Pop
+190,2006,Pop,Art Pop
+191,2006,Pop,Twee Pop
+192,2005,Pop,Chamber Pop
+193,2005,Pop,Art Pop
+194,2005,Pop,Indietronica
+195,2005,Pop,Art Pop
+196,2005,Pop,Plunderphonics
+197,2005,Pop,Chamber Pop
+198,2005,Pop,Dream Pop
+199,2005,Pop,Ambient Pop
+200,2005,Pop,Shibuya-kei
+201,2004,Pop,Shibuya-kei
+202,2004,Pop,Psychedelic Pop
+203,2004,Pop,Indietronica
+204,2004,Pop,Baroque Pop
+205,2004,Pop,Art Pop
+206,2004,Pop,Chamber Pop
+207,2004,Pop,Picopop
+208,2004,Pop,Psychedelic Pop
+209,2003,Pop,Glitch Pop
+210,2003,Pop,Art Pop
+211,2003,Pop,Indietronica
+212,2003,Pop,Dream Pop
+213,2003,Pop,Dream Pop
+214,2003,Pop,Indie Pop
+215,2003,Pop,Indietronica
+216,2003,Pop,Indie Pop
+217,2002,Pop,Noise Pop
+218,2002,Pop,Art Pop
+219,2002,Pop,Alternative Dance
+220,2002,Pop,Art Pop
+221,2002,Pop,Akishibu-kei
+222,2002,Pop,Indie Pop
+223,2002,Pop,Indietronica
+224,2001,Pop,Art Pop
+225,2001,Pop,Dream Pop
+226,2001,Pop,Dance-Pop
+227,2001,Pop,Art Pop
+228,2000,Pop,Plunderphonics
+229,2000,Pop,Dream Pop
+230,2000,Pop,Indie Pop
+231,2000,Pop,Alternative Dance
+232,2000,Pop,Art Pop
+233,2000,Pop,Dream Pop
+234,2000,Pop,Shibuya-kei
+3,2022,Folk,Indie Folk
+4,2022,Folk,Chamber Folk
+5,2022,Folk,Progressive Folk
+6,2022,Folk,Chamber Folk
+7,2022,Folk,Progressive Folk
+8,2022,Folk,Avant-Folk
+9,2022,Folk,Singer-Songwriter
+10,2021,Folk,Indie Folk
+11,2021,Folk,Avant-Folk
+12,2021,Folk,Country Soul
+13,2020,Folk,Chamber Folk
+14,2020,Folk,Singer-Songwriter
+15,2020,Folk,Singer-Songwriter
+16,2020,Folk,Singer-Songwriter
+17,2020,Folk,Mexican Folk Music
+18,2020,Folk,Indie Folk
+19,2020,Folk,Contemporary Country
+20,2020,Folk,Contemporary Folk
+21,2019,Folk,Alt-Country
+22,2019,Folk,Singer-Songwriter
+23,2019,Folk,Singer-Songwriter
+24,2019,Folk,Indie Folk
+25,2019,Folk,Folk Pop
+26,2019,Folk,Irish Folk Music
+27,2019,Folk,Indie Folk
+28,2018,Folk,Contemporary Folk
+29,2018,Folk,Indie Folk
+30,2018,Folk,Singer-Songwriter
+31,2018,Folk,Avant-Folk
+32,2018,Folk,Singer-Songwriter
+33,2017,Folk,Avant-Folk
+34,2017,Folk,Singer-Songwriter
+35,2017,Folk,Progressive Folk
+36,2017,Folk,Mexican Folk Music
+37,2017,Folk,Progressive Folk
+38,2017,Folk,Indie Folk
+39,2017,Folk,Progressive Country
+40,2017,Folk,Americana
+41,2016,Folk,Singer-Songwriter
+42,2016,Folk,Contemporary Folk
+43,2016,Folk,Singer-Songwriter
+44,2016,Folk,Dark Folk
+45,2016,Folk,Country Soul
+46,2016,Folk,Singer-Songwriter
+47,2015,Folk,Indie Folk
+48,2015,Folk,Chamber Folk
+49,2015,Folk,Psychedelic Folk
+50,2015,Folk,Singer-Songwriter
+51,2014,Folk,Chamber Folk
+52,2014,Folk,Contemporary Folk
+53,2014,Folk,Outlaw Country
+54,2014,Folk,Singer-Songwriter
+55,2014,Folk,Avant-Folk
+56,2014,Folk,Singer-Songwriter
+57,2014,Folk,Americana
+58,2013,Folk,Folktronica
+59,2013,Folk,Contemporary Country
+60,2013,Folk,Singer-Songwriter
+61,2013,Folk,Nordic Folk Music
+62,2013,Folk,Progressive Folk
+63,2013,Folk,Americana
+64,2013,Folk,Singer-Songwriter
+65,2013,Folk,Americana
+66,2013,Folk,Singer-Songwriter
+67,2013,Folk,Contemporary Folk
+68,2012,Folk,Singer-Songwriter
+69,2012,Folk,Contemporary Folk
+70,2012,Folk,Singer-Songwriter
+71,2012,Folk,Indie Folk
+72,2012,Folk,Singer-Songwriter
+73,2011,Folk,Indie Folk
+74,2011,Folk,Singer-Songwriter
+75,2011,Folk,Neofolk
+76,2011,Folk,Singer-Songwriter
+77,2011,Folk,Neofolk
+78,2011,Folk,Singer-Songwriter
+79,2011,Folk,Singer-Songwriter
+80,2011,Folk,Dark Folk
+81,2011,Folk,Avant-Folk
+82,2011,Folk,Contemporary Folk
+83,2010,Folk,Chamber Folk
+84,2010,Folk,Contemporary Folk
+85,2010,Folk,Singer-Songwriter
+86,2010,Folk,Dark Folk
+87,2010,Folk,Gothic Country
+88,2010,Folk,Contemporary Folk
+89,2010,Folk,Contemporary Folk
+90,2010,Folk,Singer-Songwriter
+91,2010,Folk,Chicago Blues
+92,2010,Folk,Singer-Songwriter
+93,2009,Folk,Avant-Folk
+94,2009,Folk,Singer-Songwriter
+95,2009,Folk,Neofolk
+96,2009,Folk,Singer-Songwriter
+97,2009,Folk,Singer-Songwriter
+98,2009,Folk,Indie Folk
+99,2009,Folk,Singer-Songwriter
+100,2009,Folk,Singer-Songwriter
+101,2009,Folk,Psychedelic Folk
+102,2009,Folk,Americana
+103,2008,Folk,Chamber Folk
+104,2008,Folk,Psychedelic Folk
+105,2008,Folk,Singer-Songwriter
+106,2008,Folk,Indie Folk
+107,2008,Folk,Contemporary Folk
+108,2008,Folk,Avant-Folk
+109,2008,Folk,Gothic Country
+110,2008,Folk,Neofolk
+111,2008,Folk,Contemporary Folk
+112,2008,Folk,Folktronica
+113,2008,Folk,Singer-Songwriter
+114,2007,Folk,Indie Folk
+115,2007,Folk,Alt-Country
+116,2007,Folk,Singer-Songwriter
+117,2007,Folk,Country Soul
+118,2007,Folk,Contemporary Folk
+119,2007,Folk,Singer-Songwriter
+120,2006,Folk,Chamber Folk
+121,2006,Folk,Singer-Songwriter
+122,2006,Folk,Alt-Country
+123,2006,Folk,Americana
+124,2006,Folk,Singer-Songwriter
+125,2006,Folk,Singer-Songwriter
+126,2006,Folk,Dark Folk
+127,2006,Folk,Singer-Songwriter
+128,2006,Folk,Celtic New Age
+129,2006,Folk,Psychedelic Folk
+130,2006,Folk,Singer-Songwriter
+131,2005,Folk,Indie Folk
+132,2005,Folk,Folktronica
+133,2005,Folk,Contemporary Folk
+134,2005,Folk,Indie Folk
+135,2005,Folk,Contemporary Folk
+136,2005,Folk,Singer-Songwriter
+137,2005,Folk,Singer-Songwriter
+138,2005,Folk,Alt-Country
+139,2005,Folk,Singer-Songwriter
+140,2005,Folk,Singer-Songwriter
+141,2005,Folk,Indie Folk
+142,2005,Folk,Singer-Songwriter
+143,2005,Folk,Psychedelic Folk
+144,2005,Folk,Indie Folk
+145,2004,Folk,Singer-Songwriter
+146,2004,Folk,Singer-Songwriter
+147,2004,Folk,Gothic Country
+148,2004,Folk,Singer-Songwriter
+149,2004,Folk,Freak Folk
+150,2004,Folk,Indie Folk
+151,2004,Folk,American Primitivism
+152,2004,Folk,Dark Folk
+153,2004,Folk,Singer-Songwriter
+154,2004,Folk,Singer-Songwriter
+155,2004,Folk,Singer-Songwriter
+156,2003,Folk,Avant-Folk
+157,2003,Folk,Alt-Country
+158,2003,Folk,Americana
+159,2003,Folk,Chamber Folk
+160,2003,Folk,Folktronica
+161,2003,Folk,Avant-Folk
+162,2003,Folk,Alt-Country
+163,2003,Folk,Folk Pop
+164,2003,Folk,Americana
+165,2003,Folk,Gothic Country
+166,2003,Folk,Neo-Medieval Folk
+167,2003,Folk,Alt-Country
+168,2003,Folk,Singer-Songwriter
+169,2003,Folk,Singer-Songwriter
+170,2003,Folk,Folktronica
+171,2002,Folk,Americana
+172,2002,Folk,Singer-Songwriter
+173,2002,Folk,Singer-Songwriter
+174,2002,Folk,Indie Folk
+175,2002,Folk,Singer-Songwriter
+176,2002,Folk,Singer-Songwriter
+177,2002,Folk,Gothic Country
+178,2002,Folk,Alt-Country
+179,2002,Folk,Contemporary Folk
+180,2002,Folk,Alt-Country
+181,2002,Folk,Indie Folk
+182,2002,Folk,Singer-Songwriter
+183,2002,Folk,Dark Folk
+184,2002,Folk,Singer-Songwriter
+185,2001,Folk,Indie Folk
+186,2001,Folk,Singer-Songwriter
+187,2001,Folk,Singer-Songwriter
+188,2001,Folk,Hill Country Blues
+189,2001,Folk,Americana
+190,2001,Folk,Singer-Songwriter
+191,2001,Folk,Polish Folk Music
+192,2001,Folk,Singer-Songwriter
+193,2001,Folk,Alt-Country
+194,2001,Folk,Singer-Songwriter
+195,2001,Folk,Indie Folk
+196,2000,Folk,Singer-Songwriter
+197,2000,Folk,Contemporary Folk
+198,2000,Folk,Americana
+199,2000,Folk,Singer-Songwriter
+200,2000,Folk,Neofolk
+201,2000,Folk,Gothic Country
+202,2000,Folk,Neo-Acoustic
+203,2000,Folk,Psychedelic Folk
+204,2000,Folk,Singer-Songwriter
+205,2000,Folk,Singer-Songwriter
+206,2000,Folk,Americana
+4,2022,Hip-Hop,East Coast Hip Hop
+5,2022,Hip-Hop,Southern Hip Hop
+6,2022,Hip-Hop,Abstract Hip Hop
+7,2022,Hip-Hop,Conscious Hip Hop
+8,2022,Hip-Hop,East Coast Hip Hop
+9,2022,Hip-Hop,Conscious Hip Hop
+10,2022,Hip-Hop,Conscious Hip Hop
+11,2022,Hip-Hop,Political Hip Hop
+12,2022,Hip-Hop,East Coast Hip Hop
+13,2022,Hip-Hop,Abstract Hip Hop
+14,2022,Hip-Hop,Industrial Hip Hop
+15,2022,Hip-Hop,Drumless
+16,2022,Hip-Hop,Drumless
+17,2022,Hip-Hop,Drumless
+18,2022,Hip-Hop,Drumless
+19,2022,Hip-Hop,Gangsta Rap
+20,2022,Hip-Hop,East Coast Hip Hop
+21,2022,Hip-Hop,Conscious Hip Hop
+22,2022,Hip-Hop,Gangsta Rap
+23,2022,Hip-Hop,Boom Bap
+24,2022,Hip-Hop,Gangsta Rap
+25,2021,Hip-Hop,UK Hip Hop
+26,2021,Hip-Hop,Experimental Hip Hop
+27,2021,Hip-Hop,Experimental Hip Hop
+28,2021,Hip-Hop,West Coast Hip Hop
+29,2021,Hip-Hop,Deconstructed Club
+30,2021,Hip-Hop,East Coast Hip Hop
+31,2021,Hip-Hop,East Coast Hip Hop
+32,2021,Hip-Hop,Political Hip Hop
+33,2021,Hip-Hop,Abstract Hip Hop
+34,2021,Hip-Hop,Jazz Rap
+35,2021,Hip-Hop,Cloud Rap
+36,2021,Hip-Hop,Gangsta Rap
+37,2021,Hip-Hop,Trap
+38,2021,Hip-Hop,Gangsta Rap
+39,2021,Hip-Hop,Miami Bass
+40,2021,Hip-Hop,Industrial Hip Hop
+41,2021,Hip-Hop,East Coast Hip Hop
+42,2021,Hip-Hop,East Coast Hip Hop
+43,2021,Hip-Hop,Gangsta Rap
+44,2021,Hip-Hop,Political Hip Hop
+45,2020,Hip-Hop,Horrorcore
+46,2020,Hip-Hop,Jazz Rap
+47,2020,Hip-Hop,Gangsta Rap
+48,2020,Hip-Hop,Abstract Hip Hop
+49,2020,Hip-Hop,Boom Bap
+50,2020,Hip-Hop,West Coast Hip Hop
+51,2020,Hip-Hop,Drumless
+52,2020,Hip-Hop,Abstract Hip Hop
+53,2020,Hip-Hop,Jazz Rap
+54,2020,Hip-Hop,Conscious Hip Hop
+55,2020,Hip-Hop,East Coast Hip Hop
+56,2020,Hip-Hop,East Coast Hip Hop
+57,2020,Hip-Hop,Abstract Hip Hop
+58,2020,Hip-Hop,Abstract Hip Hop
+59,2020,Hip-Hop,Conscious Hip Hop
+60,2019,Hip-Hop,Experimental Hip Hop
+61,2019,Hip-Hop,Gangsta Rap
+62,2019,Hip-Hop,UK Hip Hop
+63,2019,Hip-Hop,Abstract Hip Hop
+64,2019,Hip-Hop,Deconstructed Club
+65,2019,Hip-Hop,Industrial Hip Hop
+66,2019,Hip-Hop,Conscious Hip Hop
+67,2019,Hip-Hop,Abstract Hip Hop
+68,2018,Hip-Hop,Abstract Hip Hop
+69,2018,Hip-Hop,Experimental Hip Hop
+70,2018,Hip-Hop,Southern Hip Hop
+71,2018,Hip-Hop,Trap
+72,2018,Hip-Hop,East Coast Hip Hop
+73,2018,Hip-Hop,Experimental Hip Hop
+74,2018,Hip-Hop,Abstract Hip Hop
+75,2018,Hip-Hop,Abstract Hip Hop
+76,2018,Hip-Hop,Conscious Hip Hop
+77,2018,Hip-Hop,Jazz Rap
+78,2018,Hip-Hop,Jazz Rap
+79,2018,Hip-Hop,Hybrid Trap
+80,2018,Hip-Hop,Drumless
+81,2018,Hip-Hop,French Hip Hop
+82,2018,Hip-Hop,East Coast Hip Hop
+83,2018,Hip-Hop,East Coast Hip Hop
+84,2017,Hip-Hop,Jazz Rap
+85,2017,Hip-Hop,Trap
+86,2017,Hip-Hop,Hip Hop
+87,2017,Hip-Hop,UK Bass
+88,2017,Hip-Hop,Experimental Hip Hop
+89,2017,Hip-Hop,Trap
+90,2017,Hip-Hop,Abstract Hip Hop
+91,2017,Hip-Hop,West Coast Hip Hop
+92,2017,Hip-Hop,Jazz Rap
+93,2017,Hip-Hop,Southern Hip Hop
+94,2017,Hip-Hop,Instrumental Hip Hop
+95,2017,Hip-Hop,East Coast Hip Hop
+96,2017,Hip-Hop,Drumless
+97,2017,Hip-Hop,Jazz Rap
+98,2017,Hip-Hop,Conscious Hip Hop
+99,2017,Hip-Hop,East Coast Hip Hop
+100,2017,Hip-Hop,Experimental Hip Hop
+101,2017,Hip-Hop,Abstract Hip Hop
+102,2017,Hip-Hop,West Coast Hip Hop
+103,2017,Hip-Hop,Jazz Rap
+104,2017,Hip-Hop,Experimental Hip Hop
+105,2016,Hip-Hop,Experimental Hip Hop
+106,2016,Hip-Hop,Conscious Hip Hop
+107,2016,Hip-Hop,Industrial Hip Hop
+108,2016,Hip-Hop,East Coast Hip Hop
+109,2016,Hip-Hop,Jazz Rap
+110,2016,Hip-Hop,Conscious Hip Hop
+111,2016,Hip-Hop,Southern Hip Hop
+112,2016,Hip-Hop,Abstract Hip Hop
+113,2016,Hip-Hop,East Coast Hip Hop
+114,2016,Hip-Hop,East Coast Hip Hop
+115,2016,Hip-Hop,Cloud Rap
+116,2016,Hip-Hop,UK Hip Hop
+117,2015,Hip-Hop,Conscious Hip Hop
+118,2015,Hip-Hop,Experimental Hip Hop
+119,2015,Hip-Hop,Trap
+120,2015,Hip-Hop,Experimental Hip Hop
+121,2015,Hip-Hop,Abstract Hip Hop
+122,2015,Hip-Hop,Experimental Hip Hop
+123,2015,Hip-Hop,Cloud Rap
+124,2015,Hip-Hop,Experimental Hip Hop
+125,2015,Hip-Hop,Boom Bap
+126,2015,Hip-Hop,Abstract Hip Hop
+127,2015,Hip-Hop,Southern Hip Hop
+128,2015,Hip-Hop,UK Bass
+129,2015,Hip-Hop,Conscious Hip Hop
+130,2015,Hip-Hop,West Coast Hip Hop
+131,2014,Hip-Hop,Gangsta Rap
+132,2014,Hip-Hop,Experimental Hip Hop
+133,2014,Hip-Hop,Instrumental Hip Hop
+134,2014,Hip-Hop,Instrumental Hip Hop
+135,2014,Hip-Hop,Cloud Rap
+136,2014,Hip-Hop,Abstract Hip Hop
+137,2014,Hip-Hop,Deconstructed Club
+138,2014,Hip-Hop,Industrial Hip Hop
+139,2013,Hip-Hop,East Coast Hip Hop
+140,2013,Hip-Hop,East Coast Hip Hop
+141,2013,Hip-Hop,Hip Hop
+142,2013,Hip-Hop,East Coast Hip Hop
+143,2013,Hip-Hop,Experimental Hip Hop
+144,2013,Hip-Hop,Boom Bap
+145,2012,Hip-Hop,West Coast Hip Hop
+146,2012,Hip-Hop,Industrial Hip Hop
+147,2012,Hip-Hop,Memphis Rap
+148,2012,Hip-Hop,Instrumental Hip Hop
+149,2012,Hip-Hop,East Coast Hip Hop
+150,2012,Hip-Hop,Conscious Hip Hop
+151,2012,Hip-Hop,East Coast Hip Hop
+152,2012,Hip-Hop,Deconstructed Club
+153,2012,Hip-Hop,Southern Hip Hop
+154,2012,Hip-Hop,Abstract Hip Hop
+155,2012,Hip-Hop,Experimental Hip Hop
+156,2012,Hip-Hop,Instrumental Hip Hop
+157,2011,Hip-Hop,East Coast Hip Hop
+158,2011,Hip-Hop,West Coast Hip Hop
+159,2011,Hip-Hop,Experimental Hip Hop
+160,2011,Hip-Hop,Southern Hip Hop
+161,2011,Hip-Hop,Southern Hip Hop
+162,2011,Hip-Hop,Hip Hop
+163,2011,Hip-Hop,East Coast Hip Hop
+164,2011,Hip-Hop,Conscious Hip Hop
+165,2010,Hip-Hop,East Coast Hip Hop
+166,2010,Hip-Hop,Southern Hip Hop
+167,2010,Hip-Hop,East Coast Hip Hop
+168,2010,Hip-Hop,Southern Hip Hop
+169,2010,Hip-Hop,Jazz Rap
+170,2010,Hip-Hop,Industrial Hip Hop
+171,2010,Hip-Hop,Abstract Hip Hop
+172,2009,Hip-Hop,East Coast Hip Hop
+173,2009,Hip-Hop,East Coast Hip Hop
+174,2009,Hip-Hop,Cloud Rap
+175,2009,Hip-Hop,East Coast Hip Hop
+176,2009,Hip-Hop,Conscious Hip Hop
+177,2008,Hip-Hop,Wonky
+178,2008,Hip-Hop,Instrumental Hip Hop
+179,2008,Hip-Hop,East Coast Hip Hop
+180,2008,Hip-Hop,Boom Bap
+181,2008,Hip-Hop,East Coast Hip Hop
+182,2007,Hip-Hop,Conscious Hip Hop
+183,2007,Hip-Hop,UK Hip Hop
+184,2007,Hip-Hop,Memphis Rap
+185,2007,Hip-Hop,Southern Hip Hop
+186,2007,Hip-Hop,Abstract Hip Hop
+187,2007,Hip-Hop,Dirty South
+188,2007,Hip-Hop,Conscious Hip Hop
+189,2007,Hip-Hop,Boom Bap
+190,2007,Hip-Hop,Abstract Hip Hop
+191,2006,Hip-Hop,Instrumental Hip Hop
+192,2006,Hip-Hop,Southern Hip Hop
+193,2006,Hip-Hop,East Coast Hip Hop
+194,2006,Hip-Hop,East Coast Hip Hop
+195,2006,Hip-Hop,Boom Bap
+196,2006,Hip-Hop,Conscious Hip Hop
+197,2006,Hip-Hop,Southern Hip Hop
+198,2006,Hip-Hop,Memphis Rap
+199,2005,Hip-Hop,Hip Hop
+200,2005,Hip-Hop,Jazz Rap
+201,2005,Hip-Hop,Conscious Hip Hop
+202,2005,Hip-Hop,Conscious Hip Hop
+203,2005,Hip-Hop,Southern Hip Hop
+204,2005,Hip-Hop,Industrial Hip Hop
+205,2005,Hip-Hop,Abstract Hip Hop
+206,2005,Hip-Hop,East Coast Hip Hop
+207,2005,Hip-Hop,Conscious Hip Hop
+208,2005,Hip-Hop,East Coast Hip Hop
+209,2005,Hip-Hop,UK Hip Hop
+210,2005,Hip-Hop,Abstract Hip Hop
+211,2004,Hip-Hop,Abstract Hip Hop
+212,2004,Hip-Hop,East Coast Hip Hop
+213,2004,Hip-Hop,Instrumental Hip Hop
+214,2004,Hip-Hop,Conscious Hip Hop
+215,2004,Hip-Hop,East Coast Hip Hop
+216,2004,Hip-Hop,Boom Bap
+217,2004,Hip-Hop,Hip Hop
+218,2003,Hip-Hop,Abstract Hip Hop
+219,2003,Hip-Hop,Abstract Hip Hop
+220,2003,Hip-Hop,Boom Bap
+221,2003,Hip-Hop,East Coast Hip Hop
+222,2003,Hip-Hop,Jazz Rap
+223,2003,Hip-Hop,East Coast Hip Hop
+224,2003,Hip-Hop,Southern Hip Hop
+225,2003,Hip-Hop,Instrumental Hip Hop
+226,2003,Hip-Hop,Instrumental Hip Hop
+227,2003,Hip-Hop,Grime
+228,2002,Hip-Hop,Industrial Hip Hop
+229,2002,Hip-Hop,East Coast Hip Hop
+230,2002,Hip-Hop,Experimental Hip Hop
+231,2002,Hip-Hop,Boom Bap
+232,2002,Hip-Hop,Southern Hip Hop
+233,2002,Hip-Hop,West Coast Hip Hop
+234,2002,Hip-Hop,East Coast Hip Hop
+235,2002,Hip-Hop,East Coast Hip Hop
+236,2002,Hip-Hop,Southern Hip Hop
+237,2002,Hip-Hop,Jazz Rap
+238,2001,Hip-Hop,East Coast Hip Hop
+239,2001,Hip-Hop,Abstract Hip Hop
+240,2001,Hip-Hop,Conscious Hip Hop
+241,2001,Hip-Hop,East Coast Hip Hop
+242,2001,Hip-Hop,Abstract Hip Hop
+243,2001,Hip-Hop,Experimental Hip Hop
+244,2001,Hip-Hop,East Coast Hip Hop
+245,2001,Hip-Hop,Hip Hop
+246,2001,Hip-Hop,Industrial Hip Hop
+247,2001,Hip-Hop,East Coast Hip Hop
+248,2000,Hip-Hop,West Coast Hip Hop
+249,2000,Hip-Hop,Southern Hip Hop
+250,2000,Hip-Hop,East Coast Hip Hop
+251,2000,Hip-Hop,Instrumental Hip Hop
+252,2000,Hip-Hop,West Coast Hip Hop
+253,2000,Hip-Hop,Conscious Hip Hop
+254,2000,Hip-Hop,Jazz Rap
+255,2000,Hip-Hop,Conscious Hip Hop
+256,2000,Hip-Hop,Trip Hop
+257,2000,Hip-Hop,Conscious Hip Hop
+258,2000,Hip-Hop,French Hip Hop
+259,2000,Hip-Hop,East Coast Hip Hop
+260,2000,Hip-Hop,East Coast Hip Hop
+261,2000,Hip-Hop,Political Hip Hop
+5,2021,Jazz,Avant-Garde Jazz
+6,2021,Jazz,Spiritual Jazz
+7,2021,Jazz,Nu Jazz
+8,2021,Jazz,Avant-Garde Jazz
+9,2021,Jazz,Jazz Fusion
+10,2020,Jazz,Progressive Bluegrass
+11,2020,Jazz,Avant-Garde Jazz
+12,2020,Jazz,Avant-Garde Jazz
+13,2019,Jazz,Avant-Garde Jazz
+14,2019,Jazz,Jazz Fusion
+15,2019,Jazz,Progressive Bluegrass
+16,2018,Jazz,Afro-Jazz
+17,2018,Jazz,Spiritual Jazz
+18,2018,Jazz,Nu Jazz
+19,2018,Jazz,Nu Jazz
+20,2017,Jazz,Chamber Jazz
+21,2017,Jazz,Free Jazz
+22,2016,Jazz,Ethio-Jazz
+23,2016,Jazz,Spiritual Jazz
+24,2016,Jazz,Jazz Fusion
+25,2015,Jazz,Spiritual Jazz
+26,2014,Jazz,Spiritual Jazz
+27,2014,Jazz,Nu Jazz
+28,2014,Jazz,Jazz Fusion
+29,2014,Jazz,Jazz
+30,2014,Jazz,Jazz Fusion
+31,2013,Jazz,Vocal Jazz
+32,2012,Jazz,Jazz Fusion
+33,2012,Jazz,Avant-Garde Jazz
+34,2011,Jazz,Avant-Garde Jazz
+35,2011,Jazz,Jazz Fusion
+36,2011,Jazz,Avant-Garde Jazz
+37,2009,Jazz,ECM Style Jazz
+38,2009,Jazz,Jazz-Funk
+39,2009,Jazz,ECM Style Jazz
+40,2009,Jazz,Post-Bop
+41,2009,Jazz,Jazz
+42,2009,Jazz,Jazz
+43,2008,Jazz,Chamber Jazz
+44,2008,Jazz,Post-Bop
+45,2008,Jazz,Jazz Fusion
+46,2007,Jazz,Chamber Jazz
+47,2007,Jazz,Liquid Drum and Bass
+48,2007,Jazz,Jazz Fusion
+49,2006,Jazz,Ethio-Jazz
+50,2006,Jazz,Chamber Jazz
+51,2006,Jazz,Avant-Garde Jazz
+52,2006,Jazz,Avant-Garde Jazz
+53,2006,Jazz,Jazz
+54,2006,Jazz,Jazz Fusion
+55,2005,Jazz,Jazz Fusion
+56,2004,Jazz,ECM Style Jazz
+57,2003,Jazz,Avant-Garde Jazz
+58,2002,Jazz,Dark Jazz
+59,2002,Jazz,Wolof Music
+60,2000,Jazz,Dark Jazz
+61,2000,Jazz,Nu Jazz
+6,2022,Electronic,Outsider House
+7,2022,Electronic,Vaporwave
+8,2022,Electronic,Minimal Drum and Bass
+9,2021,Electronic,Post-Industrial
+10,2021,Electronic,Future Bass
+11,2021,Electronic,IDM
+12,2021,Electronic,Outsider House
+13,2021,Electronic,Electronic Dance Music
+14,2021,Electronic,Electronic Dance Music
+15,2021,Electronic,Post-Industrial
+16,2021,Electronic,Electronic Dance Music
+17,2020,Electronic,House
+18,2020,Electronic,Electronic
+19,2020,Electronic,Post-Industrial
+20,2020,Electronic,Nu-Disco
+21,2020,Electronic,Neurofunk
+22,2019,Electronic,Electronic
+23,2019,Electronic,Post-Industrial
+24,2019,Electronic,Industrial Techno
+25,2019,Electronic,House
+26,2018,Electronic,Deep House
+27,2018,Electronic,Chillwave
+28,2018,Electronic,Breakbeat
+29,2018,Electronic,IDM
+30,2018,Electronic,French Electro
+31,2018,Electronic,IDM
+32,2018,Electronic,Post-Industrial
+33,2017,Electronic,Vaporwave
+34,2017,Electronic,Chillwave
+35,2017,Electronic,Death Industrial
+36,2017,Electronic,Outsider House
+37,2017,Electronic,Outsider House
+38,2016,Electronic,IDM
+39,2016,Electronic,EAI
+40,2016,Electronic,IDM
+41,2016,Electronic,Minimal Techno
+42,2016,Electronic,Glitch
+43,2015,Electronic,Vaporwave
+44,2015,Electronic,Vaporwave
+45,2015,Electronic,Post-Industrial
+46,2015,Electronic,Outsider House
+47,2015,Electronic,Chillwave
+48,2015,Electronic,Vaporwave
+49,2015,Electronic,Vaporwave
+50,2015,Electronic,Vaporwave
+51,2015,Electronic,Industrial
+52,2015,Electronic,Vaporwave
+53,2015,Electronic,Vaporwave
+54,2014,Electronic,Vaporwave
+55,2014,Electronic,Dub Techno
+56,2014,Electronic,IDM
+57,2014,Electronic,Post-Industrial
+58,2014,Electronic,IDM
+59,2014,Electronic,Vaporwave
+60,2014,Electronic,Vaporwave
+61,2014,Electronic,Experimental Big Band
+62,2014,Electronic,Vaporwave
+63,2014,Electronic,Vaporwave
+64,2014,Electronic,Vaporwave
+65,2013,Electronic,IDM
+66,2013,Electronic,Electronic
+67,2013,Electronic,Electroacoustic
+68,2013,Electronic,IDM
+69,2013,Electronic,Electronic
+70,2013,Electronic,Experimental Big Band
+71,2013,Electronic,Microhouse
+72,2013,Electronic,Progressive Electronic
+73,2013,Electronic,Disco
+74,2012,Electronic,Dub Techno
+75,2012,Electronic,Experimental
+76,2012,Electronic,Ambient Techno
+77,2011,Electronic,Minimal Techno
+78,2011,Electronic,Electronic
+79,2011,Electronic,Minimal Techno
+80,2010,Electronic,IDM
+81,2010,Electronic,Vaporwave
+82,2010,Electronic,Dub Techno
+83,2010,Electronic,Microhouse
+84,2009,Electronic,Electronic
+85,2008,Electronic,Electronic
+86,2008,Electronic,Deep House
+87,2007,Electronic,IDM
+88,2007,Electronic,Minimal Techno
+89,2007,Electronic,Electronic
+90,2007,Electronic,French Electro
+91,2006,Electronic,Experimental
+92,2006,Electronic,Dubstep
+93,2006,Electronic,Deep House
+94,2005,Electronic,Post-Industrial
+95,2005,Electronic,Experimental Big Band
+96,2004,Electronic,Experimental Big Band
+97,2004,Electronic,Electronic
+98,2004,Electronic,IDM
+99,2004,Electronic,Post-Industrial
+100,2004,Electronic,Deep House
+101,2003,Electronic,Experimental
+102,2003,Electronic,EAI
+103,2003,Electronic,Glitch
+104,2002,Electronic,IDM
+105,2001,Electronic,French House
+106,2001,Electronic,IDM
+107,2001,Electronic,IDM
+108,2001,Electronic,IDM
+109,2001,Electronic,Glitch
+110,2001,Electronic,Glitch
+111,2000,Electronic,Electronic
+112,2000,Electronic,Post-Industrial
+7,2022,R&B,Alternative R&B
+8,2021,R&B,Neo-Soul
+9,2021,R&B,Smooth Soul
+10,2021,R&B,Contemporary R&B
+11,2020,R&B,Neo-Soul
+12,2020,R&B,Neo-Soul
+13,2020,R&B,Alternative R&B
+14,2020,R&B,Neo-Soul
+15,2019,R&B,Neo-Soul
+16,2019,R&B,Alternative R&B
+17,2019,R&B,Psychedelic Soul
+18,2019,R&B,Alternative R&B
+19,2019,R&B,MPB
+20,2019,R&B,Neo-Soul
+21,2019,R&B,Contemporary R&B
+22,2018,R&B,Alternative R&B
+23,2018,R&B,Neo-Soul
+24,2018,R&B,Alternative R&B
+25,2017,R&B,Alternative R&B
+26,2017,R&B,Contemporary R&B
+27,2017,R&B,Alternative R&B
+28,2016,R&B,Alternative R&B
+29,2016,R&B,Neo-Soul
+30,2016,R&B,Neo-Soul
+31,2016,R&B,Soul
+32,2016,R&B,Contemporary R&B
+33,2016,R&B,Neo-Soul
+34,2014,R&B,Neo-Soul
+35,2013,R&B,Alternative R&B
+36,2012,R&B,Alternative R&B
+37,2012,R&B,New Orleans R&B
+38,2011,R&B,MPB
+39,2011,R&B,Soul
+40,2010,R&B,Contemporary R&B
+41,2008,R&B,Neo-Soul
+42,2008,R&B,Soul
+43,2008,R&B,Funk
+44,2007,R&B,Soul
+45,2006,R&B,Soul
+46,2005,R&B,Soul
+47,2004,R&B,Chipmunk Soul
+48,2004,R&B,Contemporary R&B
+49,2004,R&B,Contemporary R&B
+50,2002,R&B,MPB
+51,2002,R&B,Southern Soul
+52,2002,R&B,Contemporary R&B
+53,2001,R&B,Contemporary R&B
+54,2001,R&B,Neo-Soul
+55,2000,R&B,Neo-Soul
+56,2000,R&B,Neo-Soul
+57,2000,R&B,Neo-Soul
+8,2022,Ambient,Drone
+9,2021,Ambient,Neoclassical Darkwave
+10,2021,Ambient,Darkwave
+11,2020,Ambient,Neoclassical Darkwave
+12,2019,Ambient,Neoclassical Darkwave
+13,2019,Ambient,Dark Ambient
+14,2019,Ambient,Dark Ambient
+15,2019,Ambient,Sound Collage
+16,2019,Ambient,Musique concrète
+17,2019,Ambient,Drone
+18,2019,Ambient,Ambient
+19,2019,Ambient,Ambient
+20,2018,Ambient,Neoclassical Darkwave
+21,2018,Ambient,Ambient
+22,2018,Ambient,Sound Collage
+23,2018,Ambient,Drone
+24,2018,Ambient,Harsh Noise
+25,2018,Ambient,Ambient
+26,2017,Ambient,Neoclassical Darkwave
+27,2017,Ambient,Flashcore
+28,2017,Ambient,Ambient
+29,2017,Ambient,Sound Collage
+30,2016,Ambient,Ambient
+31,2016,Ambient,Dark Ambient
+32,2015,Ambient,Ambient
+33,2015,Ambient,Ambient
+34,2015,Ambient,Darkwave
+35,2015,Ambient,Ambient
+36,2014,Ambient,Musique concrète
+37,2014,Ambient,Ambient
+38,2014,Ambient,Ambient
+39,2014,Ambient,Power Noise
+40,2014,Ambient,Drone
+41,2013,Ambient,Darkwave
+42,2013,Ambient,Ambient
+43,2013,Ambient,Epic Collage
+44,2013,Ambient,Ambient
+45,2012,Ambient,Ambient
+46,2012,Ambient,Neoclassical Darkwave
+47,2012,Ambient,Flashcore
+48,2011,Ambient,Ambient
+49,2011,Ambient,Ambient
+50,2011,Ambient,Tape Music
+51,2011,Ambient,Ambient
+52,2011,Ambient,Ambient
+53,2010,Ambient,Noise
+54,2010,Ambient,Ambient
+55,2010,Ambient,Drone
+56,2010,Ambient,Ambient
+57,2009,Ambient,Drone
+58,2009,Ambient,Drone
+59,2009,Ambient,Hi-Tech Psytrance
+60,2008,Ambient,Drone
+61,2008,Ambient,Drone
+62,2008,Ambient,Musique concrète
+63,2008,Ambient,Noise
+64,2007,Ambient,Future Garage
+65,2007,Ambient,Ambient
+66,2007,Ambient,Noise
+67,2007,Ambient,Ambient
+68,2007,Ambient,Ambient
+69,2007,Ambient,Drone
+70,2006,Ambient,Drone
+71,2006,Ambient,Ambient
+72,2006,Ambient,Drone
+73,2006,Ambient,Dark Ambient
+74,2005,Ambient,Drone
+75,2004,Ambient,Musique concrète
+76,2004,Ambient,Ambient
+77,2003,Ambient,Ambient
+78,2003,Ambient,Space Ambient
+79,2003,Ambient,Tape Music
+80,2003,Ambient,Tape Music
+81,2002,Ambient,Tape Music
+82,2001,Ambient,Ambient
+83,2001,Ambient,Ambient
+84,2001,Ambient,Ambient
+85,2000,Ambient,Ambient
+9,2021,Classical,Post-Minimalism
+10,2021,Classical,Minimalism
+11,2021,Classical,Field Recordings
+12,2018,Classical,Post-Minimalism
+13,2018,Classical,Post-Minimalism
+14,2016,Classical,Microtonal Classical
+15,2016,Classical,New Romantic
+16,2016,Classical,Classical Crossover
+17,2016,Classical,Post-Minimalism
+18,2015,Classical,Post-Minimalism
+19,2015,Classical,Post-Minimalism
+20,2015,Classical,Breakcore
+21,2015,Classical,Post-Minimalism
+22,2014,Classical,Minimalism
+23,2014,Classical,Orchestral
+24,2013,Classical,Modern Classical
+25,2012,Classical,Minimalism
+26,2012,Classical,Modern Classical
+27,2012,Classical,Modern Classical
+28,2011,Classical,Baroque Music
+29,2011,Classical,Post-Minimalism
+30,2010,Classical,Baroque Music
+31,2008,Classical,Modern Classical
+32,2008,Classical,Chamber Music
+33,2008,Classical,Persian Classical Music
+34,2007,Classical,Minimalism
+35,2007,Classical,Modern Classical
+36,2006,Classical,Modern Classical
+37,2006,Classical,Choral
+38,2006,Classical,Tone Poem
+39,2006,Classical,Spectralism
+40,2005,Classical,Romanticism
+41,2005,Classical,Renaissance Music
+42,2005,Classical,Spectralism
+43,2005,Classical,Breakcore
+44,2004,Classical,Chamber Music
+45,2004,Classical,Modern Classical
+46,2004,Classical,Neoclassical New Age
+47,2004,Classical,Modern Classical
+48,2003,Classical,Baroque Music
+49,2003,Classical,Modern Classical
+50,2003,Classical,Stochastic Music
+51,2003,Classical,Modern Classical
+52,2002,Classical,Modern Classical
+53,2002,Classical,Modern Classical
+54,2002,Classical,Modern Classical
+55,2002,Classical,Baroque Music
+56,2001,Classical,Baroque Music
+57,2001,Classical,Chamber Music
+58,2001,Classical,Modern Classical
+59,2000,Classical,Baroque Music
+60,2000,Classical,Modern Classical
+61,2000,Classical,Modern Classical
+62,2000,Classical,Renaissance Music

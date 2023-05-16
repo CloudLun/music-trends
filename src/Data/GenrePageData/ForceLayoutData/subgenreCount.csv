@@ -1,0 +1,308 @@
+genre,subgenre,count
+Ambient,Ambient,30
+Ambient,Dark Ambient,4
+Ambient,Darkwave,3
+Ambient,Drone,13
+Ambient,Epic Collage,1
+Ambient,Flashcore,2
+Ambient,Future Garage,1
+Ambient,Harsh Noise,1
+Ambient,Hi-Tech Psytrance,1
+Ambient,Musique concrète,4
+Ambient,Neoclassical Darkwave,6
+Ambient,Noise,3
+Ambient,Power Noise,1
+Ambient,Sound Collage,3
+Ambient,Space Ambient,1
+Ambient,Tape Music,4
+Classical,Baroque Music,6
+Classical,Breakcore,2
+Classical,Chamber Music,3
+Classical,Choral,1
+Classical,Classical Crossover,1
+Classical,Field Recordings,1
+Classical,Microtonal Classical,1
+Classical,Minimalism,4
+Classical,Modern Classical,16
+Classical,Neoclassical New Age,1
+Classical,New Romantic,1
+Classical,Orchestral,1
+Classical,Persian Classical Music,1
+Classical,Post-Minimalism,8
+Classical,Renaissance Music,2
+Classical,Romanticism,1
+Classical,Spectralism,2
+Classical,Stochastic Music,1
+Classical,Tone Poem,1
+Electronic,Ambient Techno,1
+Electronic,Breakbeat,1
+Electronic,Chillwave,3
+Electronic,Death Industrial,1
+Electronic,Deep House,4
+Electronic,Disco,1
+Electronic,Dub Techno,3
+Electronic,Dubstep,1
+Electronic,EAI,2
+Electronic,Electroacoustic,1
+Electronic,Electronic,10
+Electronic,Electronic Dance Music,3
+Electronic,Experimental,3
+Electronic,Experimental Big Band,4
+Electronic,French Electro,2
+Electronic,French House,1
+Electronic,Future Bass,1
+Electronic,Glitch,4
+Electronic,House,2
+Electronic,IDM,16
+Electronic,Industrial,1
+Electronic,Industrial Techno,1
+Electronic,Microhouse,2
+Electronic,Minimal Drum and Bass,1
+Electronic,Minimal Techno,4
+Electronic,Neurofunk,1
+Electronic,Nu-Disco,1
+Electronic,Outsider House,5
+Electronic,Post-Industrial,10
+Electronic,Progressive Electronic,1
+Electronic,Vaporwave,16
+Folk,Alt-Country,10
+Folk,American Primitivism,1
+Folk,Americana,12
+Folk,Avant-Folk,10
+Folk,Celtic New Age,1
+Folk,Chamber Folk,9
+Folk,Chicago Blues,1
+Folk,Contemporary Country,2
+Folk,Contemporary Folk,17
+Folk,Country Soul,3
+Folk,Dark Folk,6
+Folk,Folk Pop,2
+Folk,Folktronica,5
+Folk,Freak Folk,1
+Folk,Gothic Country,6
+Folk,Hill Country Blues,1
+Folk,Indie Folk,22
+Folk,Irish Folk Music,1
+Folk,Mexican Folk Music,2
+Folk,Neo-Acoustic,1
+Folk,Neo-Medieval Folk,1
+Folk,Neofolk,5
+Folk,Nordic Folk Music,1
+Folk,Outlaw Country,1
+Folk,Polish Folk Music,1
+Folk,Progressive Country,1
+Folk,Progressive Folk,5
+Folk,Psychedelic Folk,6
+Folk,Singer-Songwriter,70
+Hip Hop,Abstract Hip Hop,29
+Hip Hop,Boom Bap,10
+Hip Hop,Cloud Rap,5
+Hip Hop,Conscious Hip Hop,27
+Hip Hop,Deconstructed Club,4
+Hip Hop,Dirty South,1
+Hip Hop,Drumless,7
+Hip Hop,East Coast Hip Hop,50
+Hip Hop,Experimental Hip Hop,19
+Hip Hop,French Hip Hop,2
+Hip Hop,Gangsta Rap,9
+Hip Hop,Grime,1
+Hip Hop,Hip Hop,6
+Hip Hop,Horrorcore,1
+Hip Hop,Hybrid Trap,1
+Hip Hop,Industrial Hip Hop,10
+Hip Hop,Instrumental Hip Hop,11
+Hip Hop,Jazz Rap,15
+Hip Hop,Memphis Rap,3
+Hip Hop,Miami Bass,1
+Hip Hop,Political Hip Hop,4
+Hip Hop,Southern Hip Hop,18
+Hip Hop,Trap,5
+Hip Hop,Trip Hop,1
+Hip Hop,UK Bass,2
+Hip Hop,UK Hip Hop,5
+Hip Hop,West Coast Hip Hop,10
+Hip Hop,Wonky,1
+Jazz,Afro-Jazz,1
+Jazz,Avant-Garde Jazz,11
+Jazz,Chamber Jazz,4
+Jazz,Dark Jazz,2
+Jazz,ECM Style Jazz,3
+Jazz,Ethio-Jazz,2
+Jazz,Free Jazz,1
+Jazz,Jazz,4
+Jazz,Jazz Fusion,11
+Jazz,Jazz-Funk,1
+Jazz,Liquid Drum and Bass,1
+Jazz,Nu Jazz,5
+Jazz,Post-Bop,2
+Jazz,Progressive Bluegrass,2
+Jazz,Spiritual Jazz,5
+Jazz,Vocal Jazz,1
+Jazz,Wolof Music,1
+Metal,Alternative Metal,18
+Metal,Atmospheric Black Metal,67
+Metal,Atmospheric Sludge Metal,24
+Metal,Avant-Garde Metal,17
+Metal,"Avant-Garde Metal"", ""Technical Death Metal"", ""Dissonant Death Metal",1
+Metal,Black Metal,66
+Metal,Blackgaze,9
+Metal,Brutal Death Metal,11
+Metal,Death Doom Metal,17
+Metal,Death Metal,45
+Metal,Deathcore,1
+Metal,Deathgrind,1
+Metal,Depressive Black Metal,4
+Metal,Dissonant Death Metal,2
+Metal,Djent,2
+Metal,Doom Metal,25
+Metal,Drone Metal,5
+Metal,Epic Doom Metal,1
+Metal,Folk Metal,16
+Metal,Funeral Doom Metal,16
+Metal,Goregrind,1
+Metal,Gothic Metal,7
+Metal,Grindcore,20
+Metal,Groove Metal,1
+Metal,Heavy Metal,22
+Metal,Industrial Metal,4
+Metal,Mathcore,9
+Metal,Melodic Black Metal,6
+Metal,Melodic Death Metal,22
+Metal,Melodic Metalcore,1
+Metal,Metalcore,18
+Metal,Neo-Prog,4
+Metal,Pagan Black Metal,4
+Metal,Post-Metal,9
+Metal,Power Metal,24
+Metal,Powerviolence,2
+Metal,Progressive Metal,85
+Metal,Slam Death Metal,1
+Metal,Sludge Metal,12
+Metal,Speed Metal,2
+Metal,Stoner Metal,7
+Metal,Symphonic Metal,4
+Metal,Technical Death Metal,20
+Metal,Technical Thrash Metal,4
+Metal,Thrash Metal,9
+Metal,Traditional Doom Metal,1
+Metal,US Power Metal,2
+Metal,War Metal,2
+Pop,Akishibu-kei,1
+Pop,Alt-Pop,2
+Pop,Alternative Dance,2
+Pop,Ambient Pop,5
+Pop,Arabic Pop,1
+Pop,Art Pop,50
+Pop,Baroque Pop,3
+Pop,Bedroom Pop,1
+Pop,Bubblegum Bass,2
+Pop,Chamber Pop,6
+Pop,City Pop,2
+Pop,Dance-Pop,8
+Pop,Dream Pop,16
+Pop,Electropop,12
+Pop,Flamenco Pop,1
+Pop,Glitch Pop,7
+Pop,Hyperpop,1
+Pop,Hypnagogic Pop,3
+Pop,Indie Pop,17
+Pop,Indietronica,7
+Pop,J-Pop,6
+Pop,Jangle Pop,1
+Pop,Jazz Pop,2
+Pop,K-Pop,5
+Pop,Math Pop,1
+Pop,Minimal Wave,1
+Pop,Noise Pop,7
+Pop,Picopop,1
+Pop,Plunderphonics,4
+Pop,Pop Rap,9
+Pop,Power Pop,7
+Pop,Progressive Pop,7
+Pop,Psychedelic Pop,9
+Pop,Shibuya-kei,5
+Pop,Sophisti-Pop,1
+Pop,Synthpop,15
+Pop,Twee Pop,5
+R&B,Alternative R&B,11
+R&B,Chipmunk Soul,1
+R&B,Contemporary R&B,9
+R&B,Funk,1
+R&B,MPB,3
+R&B,Neo-Soul,16
+R&B,New Orleans R&B,1
+R&B,Psychedelic Soul,1
+R&B,Smooth Soul,1
+R&B,Soul,6
+R&B,Southern Soul,1
+Rock,AOR,2
+Rock,Acoustic Rock,4
+Rock,Alternative Rock,29
+Rock,Art Punk,4
+Rock,Art Rock,24
+Rock,Avant-Prog,7
+Rock,Blues Rock,3
+Rock,Celtic Punk,1
+Rock,Comedy Rock,1
+Rock,D-Beat,1
+Rock,Dance-Punk,6
+Rock,Digital Hardcore,2
+Rock,Emo,4
+Rock,Emo-Pop,2
+Rock,Emoviolence,7
+Rock,Experimental Rock,11
+Rock,Folk Punk,4
+Rock,Folk Rock,10
+Rock,Garage Punk,2
+Rock,Garage Rock,1
+Rock,Garage Rock Revival,4
+Rock,Gothic Rock,3
+Rock,Hard Rock,3
+Rock,Hardcore Breaks,3
+Rock,Hardcore Hip Hop,13
+Rock,Hardcore Punk,6
+Rock,Heartland Rock,3
+Rock,Heavy Psych,3
+Rock,Indie Rock,60
+Rock,Industrial Rock,1
+Rock,J-Rock,5
+Rock,Japanese Hardcore,3
+Rock,Jazz-Rock,5
+Rock,Math Rock,8
+Rock,Melodic Hardcore,1
+Rock,Midwest Emo,6
+Rock,Neo-Psychedelia,20
+Rock,Neocrust,1
+Rock,New Wave,1
+Rock,Noise Rock,16
+Rock,Piano Rock,2
+Rock,Pop Punk,7
+Rock,Pop Rock,8
+Rock,Post-Hardcore,30
+Rock,Post-Punk,13
+Rock,Post-Punk Revival,2
+Rock,Post-Rock,26
+Rock,Progressive Rock,73
+Rock,Psychedelic Rock,19
+Rock,Punk Blues,3
+Rock,Punk Rock,6
+Rock,Queercore,1
+Rock,Riot Grrrl,1
+Rock,Rock Opera,2
+Rock,Rock urbano español,1
+Rock,Samba-rock,1
+Rock,Screamo,16
+Rock,Shoegaze,11
+Rock,Ska Punk,4
+Rock,Slacker Rock,9
+Rock,Slowcore,9
+Rock,Southern Rock,4
+Rock,Space Rock,2
+Rock,Stenchcore,1
+Rock,Stoner Rock,8
+Rock,Swancore,1
+Rock,Symphonic Prog,11
+Rock,Tishoumaren,1
+Rock,UK Garage,1
+Rock,Yakousei,1
+Rock,Zeuhl,4
