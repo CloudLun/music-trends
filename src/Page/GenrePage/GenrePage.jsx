@@ -16,28 +16,6 @@ for (let i = 0; i < types.length; i++) {
 let subgenreSet = new Set(subgenres.map(JSON.stringify));
 subgenres = Array.from(subgenreSet).map(JSON.parse);
 
-const genreColorGenerator = (genre) => {
-  return genre === "Metal"
-    ? "#cccccc"
-    : genre === "Rock"
-    ? "#FF9B06"
-    : genre === "Pop"
-    ? "#F15BB5"
-    : genre === "Folk"
-    ? "#B2C381"
-    : genre === "Hip_Hop"
-    ? "#FF4E2C"
-    : genre === "Jazz"
-    ? "#76A896"
-    : genre === "Electronic"
-    ? "#FEE440"
-    : genre === "Ambient"
-    ? "#75BED7"
-    : genre === "RnB"
-    ? "#8984C9"
-    : "#A47993";
-};
-
 const genreHighestRatings = [
   {
     genre: "Metal",
@@ -81,19 +59,12 @@ const genreHighestRatings = [
   },
 ];
 
-const genrePageHandler = () => {
-  window.scrollTo({ top: window.innerHeight, behavior: "smooth" });
-};
-
-const countriesPageHandler = () => {
-  window.scrollTo({ top: window.innerHeight * 3, behavior: "smooth" });
-};
-
-const ratingsPageHandler = () => {
-  window.scrollTo({ top: window.innerHeight * 4, behavior: "smooth" });
-};
-
-const GenrePage = () => {
+const GenrePage = ({
+  genrePageHandler,
+  countriesPageHandler,
+  ratingsPageHandler,
+  genreColorGenerator,
+}) => {
   const [genre, setGenre] = useState("Metal");
   let genreAlbumsCount = types.filter((d) => d.genre === genre).length;
   let subgenreCount = subgenres.filter((d) => d[0] === genre).length;

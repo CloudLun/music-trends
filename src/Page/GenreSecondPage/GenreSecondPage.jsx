@@ -6,45 +6,17 @@ import Category from "../Shared/Category";
 import GenreSelection from "../Shared/GenreSelection";
 import WaveChart from "./WaveChart";
 
-const genreColorGenerator = (genre) => {
-  return genre === "Metal"
-    ? "#cccccc"
-    : genre === "Rock"
-    ? "#FF9B06"
-    : genre === "Pop"
-    ? "#F15BB5"
-    : genre === "Folk"
-    ? "#B2C381"
-    : genre === "Hip-Hop"
-    ? "#FF4E2C"
-    : genre === "Jazz"
-    ? "#76A896"
-    : genre === "Electronic"
-    ? "#FEE440"
-    : genre === "Ambient"
-    ? "#75BED7"
-    : genre === "RnB"
-    ? "#8984C9"
-    : "#A47993";
-};
 const years = [
   2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012,
   2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022,
 ];
 
-const genrePageHandler = () => {
-  window.scrollTo({ top: window.innerHeight, behavior: "smooth" });
-};
-
-const countriesPageHandler = () => {
-  window.scrollTo({ top: window.innerHeight * 3, behavior: "smooth" });
-};
-
-const ratingsPageHandler = () => {
-  window.scrollTo({ top: window.innerHeight * 4, behavior: "smooth" });
-};
-
-const GenreSecondPage = () => {
+const GenreSecondPage = ({
+  genrePageHandler,
+  countriesPageHandler,
+  ratingsPageHandler,
+  genreColorGenerator,
+}) => {
   const [year, setYear] = useState(22);
   const [play, setPlay] = useState(false);
   const [genre, setGenre] = useState("All");
@@ -124,7 +96,7 @@ const GenreSecondPage = () => {
             metal and rock albums.
           </p>
           <div className="absolute bottom-[20px] w-full h-[250px]">
-          <h1>Genre Distribution</h1>
+            <h1>Genre Distribution</h1>
             <WaveChart type={genre} />
           </div>
         </div>

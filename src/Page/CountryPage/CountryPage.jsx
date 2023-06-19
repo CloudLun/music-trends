@@ -13,28 +13,6 @@ import CountryAlbumsInfo from "./CountryAlbumsInfo";
 
 import Category from "../Shared/Category";
 
-const genreColorGenerator = (genre) => {
-  return genre === "Metal"
-    ? "#cccccc"
-    : genre === "Rock"
-    ? "#FF9B06"
-    : genre === "Pop"
-    ? "#F15BB5"
-    : genre === "Folk"
-    ? "#B2C381"
-    : genre === "Hip-Hop"
-    ? "#FF4E2C"
-    : genre === "Jazz"
-    ? "#76A896"
-    : genre === "Electronic"
-    ? "#FEE440"
-    : genre === "Ambient"
-    ? "#75BED7"
-    : genre === "RnB"
-    ? "#8984C9"
-    : "#A47993";
-};
-
 const radiusGnereator = (c) => {
   return c > 200
     ? 50
@@ -65,7 +43,12 @@ const polygonColorGnereator = (c) => {
     : "#424242";
 };
 
-const CountryPage = () => {
+const CountryPage = ({
+  genrePageHandler,
+  countriesPageHandler,
+  ratingsPageHandler,
+  genreColorGenerator,
+}) => {
   const [country, setCountry] = useState("");
   const [count, setCount] = useState(0);
 
@@ -79,18 +62,6 @@ const CountryPage = () => {
   const [zoom, setZoom] = useState(1.65);
 
   let filteredAlbums = [];
-
-  const genrePageHandler = () => {
-    window.scrollTo({ top: window.innerHeight, behavior: "smooth" });
-  };
-
-  const countriesPageHandler = () => {
-    window.scrollTo({ top: window.innerHeight * 3, behavior: "smooth" });
-  };
-
-  const ratingsPageHandler = () => {
-    window.scrollTo({ top: window.innerHeight * 4, behavior: "smooth" });
-  };
 
   useEffect(() => {
     mapboxgl.accessToken =

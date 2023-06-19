@@ -4,41 +4,12 @@ import ScatterPlot from "./ScatterPlot";
 import Category from "../Shared/Category";
 import GenreSelection from "../Shared/GenreSelection";
 
-const genreColorGenerator = (genre) => {
-  return genre === "Metal"
-    ? "#cccccc"
-    : genre === "Rock"
-    ? "#FF9B06"
-    : genre === "Pop"
-    ? "#F15BB5"
-    : genre === "Folk"
-    ? "#B2C381"
-    : genre === "Hip-Hop"
-    ? "#FF4E2C"
-    : genre === "Jazz"
-    ? "#76A896"
-    : genre === "Electronic"
-    ? "#FEE440"
-    : genre === "Ambient"
-    ? "#75BED7"
-    : genre === "RnB"
-    ? "#8984C9"
-    : "#A47993";
-};
-
-const genrePageHandler = () => {
-  window.scrollTo({ top: window.innerHeight, behavior: "smooth" });
-};
-
-const countriesPageHandler = () => {
-  window.scrollTo({ top: window.innerHeight * 3, behavior: "smooth" });
-};
-
-const ratingsPageHandler = () => {
-  window.scrollTo({ top: window.innerHeight * 4, behavior: "smooth" });
-};
-
-const RatingPage = () => {
+const RatingPage = ({
+  genrePageHandler,
+  countriesPageHandler,
+  ratingsPageHandler,
+  genreColorGenerator,
+}) => {
   const genreChangeHandler = (event) => {
     setGenre(event.target.value);
   };
